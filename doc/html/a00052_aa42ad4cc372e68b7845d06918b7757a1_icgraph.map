@@ -1,0 +1,4 @@
+<map id="chronometer_start" name="chronometer_start">
+<area shape="rect" id="node2" href="$a00115.html#aac664a28090e117bf312a7c02dcf7026" title="Start an application. " alt="" coords="182,5,346,32"/>
+<area shape="rect" id="node3" href="$a00114.html#a6aac659279e3e7a108c9717279e3c2a1" title="char * shell_program_help(int argc, char* argv[]) { } " alt="" coords="189,57,339,98"/>
+</map>

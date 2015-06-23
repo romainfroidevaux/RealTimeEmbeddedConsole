@@ -1,0 +1,51 @@
+<map id="consolemanager_println" name="consolemanager_println">
+<area shape="rect" id="node2" href="$a00052.html#a683373f13ce51f963bc7d8c0981f6665" title="Initialize the chronometer resources. " alt="" coords="474,281,593,308"/>
+<area shape="rect" id="node3" href="$a00052.html#aa263e00a9e59be17f53fbd8fadf3e35e" title="Stop the chronometer application. " alt="" coords="226,696,395,723"/>
+<area shape="rect" id="node4" href="$a00057.html#a73c207f821150fef6038a49a6f26023f" title="controller_battleship\l_button_ship1_handler" alt="" coords="235,579,387,621"/>
+<area shape="rect" id="node12" href="$a00115.html#a3e77166d1df613d611bcee06e17b4870" title="Stop an application. " alt="" coords="1675,595,1837,621"/>
+<area shape="rect" id="node14" href="$a00115.html#aac664a28090e117bf312a7c02dcf7026" title="Start an application. " alt="" coords="1462,165,1626,192"/>
+<area shape="rect" id="node17" href="$a00057.html#ad155d908892cfb939572a54b3a8cd6da" title="controller_battleship\l_button_ship2_handler" alt="" coords="235,383,387,425"/>
+<area shape="rect" id="node18" href="$a00057.html#a085f2ec8261145de8d0a73e2a034e1cc" title="controller_battleship\l_button_ship3_handler" alt="" coords="235,449,387,490"/>
+<area shape="rect" id="node19" href="$a00057.html#a0515b64b8e38f2c64e20fa3c48ebf2c4" title="controller_battleship\l_button_rotate_handler" alt="" coords="233,514,388,555"/>
+<area shape="rect" id="node20" href="$a00081.html#a2bd6b3accec24ade6e13368d9603bca7" title="Configure a GPT timer. " alt="" coords="251,231,370,257"/>
+<area shape="rect" id="node24" href="$a00099.html#a3ca2314193e4ccc9b1f380dfb970a9ee" title="Starts an application. " alt="" coords="474,332,593,359"/>
+<area shape="rect" id="node34" href="$a00107.html#a501f8a6c8f6f40b7dd5c80bc5a1a7e03" title="Receive 1 frame. " alt="" coords="457,772,610,799"/>
+<area shape="rect" id="node37" href="$a00107.html#a415b4dc6446776fc9cbcc521a374345c" title="Send ICMP request (ping) " alt="" coords="261,848,360,875"/>
+<area shape="rect" id="node38" href="$a00115.html#ad3b00af7cdc8f14ddcf8410dfd7c09fb" title="Ping. " alt="" coords="466,873,601,900"/>
+<area shape="rect" id="node39" href="$a00107.html#aa94a193707d98be5f2f4136f0ce9ae36" title="Send ICMP reply. " alt="" coords="225,747,397,773"/>
+<area shape="rect" id="node40" href="$a00113.html#adc8d48210afb28584ce7b74954fcde9b" title="Interpret a line. " alt="" coords="213,949,408,976"/>
+<area shape="rect" id="node41" href="$a00115.html#a296c441ff39092339c11e78b48f1b8dc" title="Set IP. " alt="" coords="238,1000,383,1027"/>
+<area shape="rect" id="node42" href="$a00114.html#a1da240ab2aa947e9ed2d16567c1fb8a7" title="shell_program_get_ip" alt="" coords="238,1051,383,1077"/>
+<area shape="rect" id="node43" href="$a00114.html#af5f847491cd7bc32048db590b628a30d" title="shell_program_list\l_app_all" alt="" coords="247,1102,374,1143"/>
+<area shape="rect" id="node44" href="$a00114.html#a3e49f277aa62da6266249696c81b839a" title="shell_program_list\l_app_run" alt="" coords="247,1167,374,1209"/>
+<area shape="rect" id="node45" href="$a00114.html#ad0129aa897c74a38daddc006f1e0c8ba" title="shell_program_list\l_app_halt" alt="" coords="247,1233,374,1274"/>
+<area shape="rect" id="node46" href="$a00114.html#a6aac659279e3e7a108c9717279e3c2a1" title="char * shell_program_help(int argc, char* argv[]) { } " alt="" coords="236,1298,385,1339"/>
+<area shape="rect" id="node47" href="$a00114.html#a96dd8e11728aa9f2b14268e084bbd2c6" title="shell_program_chrono_stop" alt="" coords="220,1364,401,1391"/>
+<area shape="rect" id="node48" href="$a00114.html#a1eebab6d4ae0ac8c7d8a7eb47b79ef61" title="shell_program_chrono\l_pause" alt="" coords="236,1415,385,1457"/>
+<area shape="rect" id="node49" href="$a00114.html#a7de7845b126811b9de1b02b6054f4dc7" title="shell_program_chrono_show" alt="" coords="217,1481,404,1508"/>
+<area shape="rect" id="node50" href="$a00118.html#a1a0aef46ed41cb44555fcfb6e6940a68" title="Initialize the Thermometer resources. " alt="" coords="251,1532,370,1559"/>
+<area shape="rect" id="node5" href="$a00128.html#aded8fe72d054ae9bec7ccc1c4447c62e" title="Initialize Battleship Positioning view. " alt="" coords="467,519,600,545"/>
+<area shape="rect" id="node6" href="$a00058.html#a2b7f69608644913ecd87f127ee8acd88" title="Starts the battleship app. " alt="" coords="663,511,801,553"/>
+<area shape="rect" id="node7" href="$a00059.html#a444589a78b86d64f3fd6c78ad7c47e3f" title="controller_home_button\l_battleship_handler" alt="" coords="853,399,1011,441"/>
+<area shape="rect" id="node15" href="$a00061.html#a6701201ea1976c1f1f044c1835f5f765" title="controller_score_button\l_replay_handler" alt="" coords="853,465,1011,506"/>
+<area shape="rect" id="node8" href="$a00136.html#aa00bcf8c0582eb3736e5174b95144abd" title="Initialize view. " alt="" coords="1084,341,1193,368"/>
+<area shape="rect" id="node9" href="$a00060.html#ab7414d6d28f006f41adfde76c57648f3" title="Starts the home app. " alt="" coords="1267,557,1413,584"/>
+<area shape="rect" id="node10" href="$a00055.html#a42355a0edc713dc7d36a1a871a3c0c4a" title="controller_button_home\l_handler" alt="" coords="1465,529,1623,570"/>
+<area shape="rect" id="node11" href="$a00062.html#a54907e7248b30f40ba84cea9824af5aa" title="Stops the score app. " alt="" coords="1471,427,1617,453"/>
+<area shape="rect" id="node13" href="$a00097.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main application. " alt="" coords="1519,477,1569,504"/>
+<area shape="rect" id="node16" href="$a00137.html#a07bba0b222e2b7b2e6cde0efca2c070f" title="view_score_button_print" alt="" coords="1059,472,1219,499"/>
+<area shape="rect" id="node21" href="$a00069.html#ac8b2dc5574d64cf8344cf3ff67ed0bd9" title="Enable the refresh of the display. " alt="" coords="479,113,587,140"/>
+<area shape="rect" id="node23" href="$a00091.html#afbb3b3ad0c8f22181212d20f10187e73" title="Passes controle to another thread and sleep during for specified time. " alt="" coords="464,231,603,257"/>
+<area shape="rect" id="node22" href="$a00118.html#a49cf8dcb96ef07206bfc88f4b3dab1bc" title="Start the Thermometer application. " alt="" coords="663,43,801,85"/>
+<area shape="rect" id="node25" href="$a00050.html#a5db784559a4599699e53ec3c1964e315" title="Start the calibration program. " alt="" coords="659,277,805,304"/>
+<area shape="rect" id="node26" href="$a00052.html#aaef370f9d3079fd3d3b89326117465e8" title="Start the chronometer application. " alt="" coords="663,394,801,435"/>
+<area shape="rect" id="node27" href="$a00059.html#a3cfd27d2a8960a66809c7d54c4242308" title="controller_home_button\l_shell_handler" alt="" coords="853,99,1011,141"/>
+<area shape="rect" id="node28" href="$a00062.html#a82bddd27bc9d265251ffc0d312c38cab" title="Starts the score app. " alt="" coords="659,227,805,253"/>
+<area shape="rect" id="node30" href="$a00064.html#a0bf97ef0a0a7e7b4a0934566612011dd" title="Starts the Tic&#45;Tac&#45;Toe app. " alt="" coords="666,329,798,370"/>
+<area shape="rect" id="node32" href="$a00113.html#a93921300383ecb22d78cfa3439dd637a" title="Stop the shell interpreter. " alt="" coords="659,460,805,487"/>
+<area shape="rect" id="node33" href="$a00120.html#aa867f5aab09504835edb454887347422" title="Enable the touch manager application. " alt="" coords="659,161,805,202"/>
+<area shape="rect" id="node29" href="$a00059.html#a65850c04a195f1aa0820671ef299247f" title="controller_home_button\l_score_handler" alt="" coords="853,217,1011,258"/>
+<area shape="rect" id="node31" href="$a00059.html#a9914d8e63330ebe6daf9d34aa8b91171" title="controller_home_button\l_tictactoe_handler" alt="" coords="853,334,1011,375"/>
+<area shape="rect" id="node35" href="$a00106.html#a06136cc5f8410869a86e59354a4cbca7" title="network_receive" alt="" coords="675,772,789,799"/>
+<area shape="rect" id="node36" href="$a00107.html#a53866cf213c2b2ea49bce93552ac766f" title="Inits network. " alt="" coords="887,772,977,799"/>
+</map>

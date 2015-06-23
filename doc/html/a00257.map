@@ -1,0 +1,9 @@
+<map id="view_battleship.c" name="view_battleship.c">
+<area shape="rect" id="node4" href="$a00126.html" title="view.h" alt="" coords="93,155,149,181"/>
+<area shape="rect" id="node5" href="$a00124.html" title="utils.h" alt="" coords="497,155,553,181"/>
+<area shape="rect" id="node7" href="$a00128.html" title="view_battleship.h" alt="" coords="720,80,840,107"/>
+<area shape="rect" id="node13" href="$a00095.html" title="lcddisplay.h" alt="" coords="192,80,283,107"/>
+<area shape="rect" id="node14" href="$a00144.html" title="xpm.h" alt="" coords="295,155,353,181"/>
+<area shape="rect" id="node15" href="$a00058.html" title="controller_battleship.h" alt="" coords="496,80,645,107"/>
+<area shape="rect" id="node16" href="$a00120.html" title="touchmanager.h" alt="" coords="357,80,472,107"/>
+</map>

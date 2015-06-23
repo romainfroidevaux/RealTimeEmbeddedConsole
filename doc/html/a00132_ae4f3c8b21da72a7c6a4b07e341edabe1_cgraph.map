@@ -1,0 +1,5 @@
+<map id="view_battleship_wait_detach" name="view_battleship_wait_detach">
+<area shape="rect" id="node2" href="$a00119.html#aa7a22d5f99d61081b2b6b5b45ed3ba7c" title="Detach all touch surface. " alt="" coords="192,41,363,68"/>
+<area shape="rect" id="node3" href="$a00119.html#a845b61c58eec82e2422632deafe2183a" title="Detach all buttons. " alt="" coords="437,5,584,46"/>
+<area shape="rect" id="node4" href="$a00119.html#aa22035ed72655286ecc7a4fafa6d7625" title="Detach all grids. " alt="" coords="411,71,610,97"/>
+</map>

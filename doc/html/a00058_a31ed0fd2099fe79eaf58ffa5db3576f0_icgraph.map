@@ -1,0 +1,4 @@
+<map id="controller_battleship_stop" name="controller_battleship_stop">
+<area shape="rect" id="node2" href="$a00058.html#a692d76c38bc5241a67987747145258f5" title="Surrend the game. " alt="" coords="225,5,399,46"/>
+<area shape="rect" id="node3" href="$a00115.html#a3e77166d1df613d611bcee06e17b4870" title="Stop an application. " alt="" coords="231,71,393,97"/>
+</map>

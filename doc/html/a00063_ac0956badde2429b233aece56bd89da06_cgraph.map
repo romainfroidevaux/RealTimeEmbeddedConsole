@@ -1,0 +1,9 @@
+<map id="controller_tictactoe_grid_handler" name="controller_tictactoe_grid_handler">
+<area shape="rect" id="node2" href="$a00104.html#a4e198d1a1968081f30a36bb41f957f47" title="Get the grid case state. " alt="" coords="187,19,362,45"/>
+<area shape="rect" id="node4" href="$a00141.html#a08eea4beecc122818085b672888dff7b" title="Set case. " alt="" coords="193,95,356,121"/>
+<area shape="rect" id="node3" href="$a00104.html#a895c2d3ed645d5e3a0e7283e92075fee" title="model_tictactoe_valid" alt="" coords="415,5,561,32"/>
+<area shape="rect" id="node5" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="415,56,561,83"/>
+<area shape="rect" id="node7" href="$a00143.html#a5be8bcb5660982fb8078bb036365c30f" title="Convert a XPM image into a 16&#45;bit bitmap format RGB565. " alt="" coords="419,107,557,133"/>
+<area shape="rect" id="node8" href="$a00094.html#a295559d5876ef00f3b86ab991e534c5e" title="Print an image. " alt="" coords="411,157,565,184"/>
+<area shape="rect" id="node6" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="613,107,731,133"/>
+</map>

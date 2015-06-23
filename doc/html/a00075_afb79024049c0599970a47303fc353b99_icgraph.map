@@ -1,0 +1,5 @@
+<map id="fec_mii_init" name="fec_mii_init">
+<area shape="rect" id="node2" href="$a00076.html#abc5ddcff5bac9eb4e3b3d57b398cb30a" title="Start the Fast Ethernet Controller (FEC). " alt="" coords="141,5,213,32"/>
+<area shape="rect" id="node3" href="$a00106.html#aac0be9a5fd3f946ab9bad92fb3adb49f" title="network_init_fec" alt="" coords="261,5,376,32"/>
+<area shape="rect" id="node4" href="$a00107.html#a53866cf213c2b2ea49bce93552ac766f" title="Inits network. " alt="" coords="424,5,515,32"/>
+</map>

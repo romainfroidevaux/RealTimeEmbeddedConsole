@@ -1,0 +1,4 @@
+<map id="serial_init" name="serial_init">
+<area shape="rect" id="node2" href="$a00110.html#a16c1f93c399ae0c9fb0fde7c2b9ea83b" title="method to change the baud rate " alt="" coords="131,5,266,32"/>
+<area shape="rect" id="node3" href="$a00045.html#a20a4e78d5baa7ccbc6188347d44e9000" title="method to attach an application specific interrupt service routine to the specified vector ..." alt="" coords="155,56,242,83"/>
+</map>

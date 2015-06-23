@@ -1,0 +1,4 @@
+<map id="view_battleship_play.h" name="view_battleship_play.h">
+<area shape="rect" id="node2" href="$a00100.html" title="model_battleship.c" alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node3" href="$a00129.html" title="view_battleship_play.c" alt="" coords="161,80,311,107"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="touchmanager_thread_start" name="touchmanager_thread_start">
+<area shape="rect" id="node2" href="$a00090.html#a65a6817e33944a04786d3c7a2bb10fea" title="Create a new thread. " alt="" coords="201,56,343,83"/>
+<area shape="rect" id="node3" href="$a00098.html#a3ca2314193e4ccc9b1f380dfb970a9ee" title="Starts an application. " alt="" coords="213,107,331,133"/>
+<area shape="rect" id="node4" href="$a00098.html#a7d66f431366955834a6a95863de2c3c3" title="Set current running app. " alt="" coords="393,81,578,108"/>
+<area shape="rect" id="node5" href="$a00053.html#a9e82cf1952d06dc3e26353f421b00c4f" title="Print a line on the console. " alt="" coords="406,132,565,159"/>
+<area shape="rect" id="node6" href="$a00110.html#a365e1388b0e8a87e7eac1c98767de11f" title="method to send a string on the serial interface " alt="" coords="660,56,745,83"/>
+<area shape="rect" id="node10" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="1019,107,1205,133"/>
+<area shape="rect" id="node11" href="$a00139.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="627,157,778,184"/>
+<area shape="rect" id="node17" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="1254,275,1423,301"/>
+<area shape="rect" id="node7" href="$a00110.html#a9c751f48f189bdf68240e476f01ea070" title="method to send character on the serial interface " alt="" coords="856,56,941,83"/>
+<area shape="rect" id="node8" href="$a00087.html#aad559c0a8c9209a2751887cac7cf8881" title="Method to disable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="1053,5,1171,32"/>
+<area shape="rect" id="node9" href="$a00087.html#aaa547d1d7074b73a55b85640b558923b" title="Method to enable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="1055,56,1169,83"/>
+<area shape="rect" id="node12" href="$a00139.html#a90ba4da2c534f1db3da8fa7da1a6a008" title="view_shell_print_chars\l_tests" alt="" coords="1037,209,1187,250"/>
+<area shape="rect" id="node18" href="$a00139.html#a444c2b86fb4d2d3159abef82d10c0e2f" title="Print char. " alt="" coords="827,157,971,184"/>
+<area shape="rect" id="node13" href="$a00139.html#a584921e97f46e697dc02a491eaa752c4" title="view_shell_reset_shell" alt="" coords="1473,173,1623,200"/>
+<area shape="rect" id="node16" href="$a00139.html#a720d48ba809d3abd59e7c74b4e36c927" title="view_shell_init_cursor" alt="" coords="1475,249,1621,276"/>
+<area shape="rect" id="node14" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="1672,173,1819,200"/>
+<area shape="rect" id="node15" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="1867,148,1984,175"/>
+<area shape="rect" id="node19" href="$a00094.html#afa7fddb197e48b1388d0e6d3e252c8c4" title="Print char. " alt="" coords="1267,123,1411,149"/>
+</map>

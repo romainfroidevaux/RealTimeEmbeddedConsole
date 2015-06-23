@@ -1,0 +1,18 @@
+<map id="shell_program_chrono_pause" name="shell_program_chrono_pause">
+<area shape="rect" id="node2" href="$a00051.html#a48468d2994251fd7d12226a026f4e4cf" title="Stop the chronometer counter. " alt="" coords="219,81,346,108"/>
+<area shape="rect" id="node3" href="$a00053.html#a9e82cf1952d06dc3e26353f421b00c4f" title="Print a line on the console. " alt="" coords="203,132,362,159"/>
+<area shape="rect" id="node4" href="$a00110.html#a365e1388b0e8a87e7eac1c98767de11f" title="method to send a string on the serial interface " alt="" coords="444,56,529,83"/>
+<area shape="rect" id="node8" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="803,107,989,133"/>
+<area shape="rect" id="node9" href="$a00139.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="411,157,562,184"/>
+<area shape="rect" id="node15" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="1038,275,1207,301"/>
+<area shape="rect" id="node5" href="$a00110.html#a9c751f48f189bdf68240e476f01ea070" title="method to send character on the serial interface " alt="" coords="640,56,725,83"/>
+<area shape="rect" id="node6" href="$a00087.html#aad559c0a8c9209a2751887cac7cf8881" title="Method to disable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="837,5,955,32"/>
+<area shape="rect" id="node7" href="$a00087.html#aaa547d1d7074b73a55b85640b558923b" title="Method to enable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="839,56,953,83"/>
+<area shape="rect" id="node10" href="$a00139.html#a90ba4da2c534f1db3da8fa7da1a6a008" title="view_shell_print_chars\l_tests" alt="" coords="821,209,971,250"/>
+<area shape="rect" id="node16" href="$a00139.html#a444c2b86fb4d2d3159abef82d10c0e2f" title="Print char. " alt="" coords="611,157,755,184"/>
+<area shape="rect" id="node11" href="$a00139.html#a584921e97f46e697dc02a491eaa752c4" title="view_shell_reset_shell" alt="" coords="1257,173,1407,200"/>
+<area shape="rect" id="node14" href="$a00139.html#a720d48ba809d3abd59e7c74b4e36c927" title="view_shell_init_cursor" alt="" coords="1259,249,1405,276"/>
+<area shape="rect" id="node12" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="1456,173,1603,200"/>
+<area shape="rect" id="node13" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="1651,148,1768,175"/>
+<area shape="rect" id="node17" href="$a00094.html#afa7fddb197e48b1388d0e6d3e252c8c4" title="Print char. " alt="" coords="1051,123,1195,149"/>
+</map>

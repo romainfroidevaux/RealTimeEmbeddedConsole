@@ -1,0 +1,51 @@
+<map id="controller_tictactoe_start" name="controller_tictactoe_start">
+<area shape="rect" id="node2" href="$a00104.html#a76fd3705ac2cc234c6660ff6e9d1cc7b" title="Resets the grid. " alt="" coords="187,5,365,32"/>
+<area shape="rect" id="node3" href="$a00098.html#a3ca2314193e4ccc9b1f380dfb970a9ee" title="Starts an application. " alt="" coords="1115,484,1234,511"/>
+<area shape="rect" id="node17" href="$a00141.html#ac93d70236dfe9612ce6a39e1da17da57" title="Initialize TicTacToe view. " alt="" coords="213,504,339,531"/>
+<area shape="rect" id="node50" href="$a00112.html#a9193e76846752ccb14c87b85b247e6fc" title="Attach a new command to the Shell interpreter. " alt="" coords="197,555,355,581"/>
+<area shape="rect" id="node4" href="$a00098.html#a7d66f431366955834a6a95863de2c3c3" title="Set current running app. " alt="" coords="1294,459,1479,485"/>
+<area shape="rect" id="node5" href="$a00053.html#a9e82cf1952d06dc3e26353f421b00c4f" title="Print a line on the console. " alt="" coords="1307,509,1466,536"/>
+<area shape="rect" id="node6" href="$a00110.html#a365e1388b0e8a87e7eac1c98767de11f" title="method to send a string on the serial interface " alt="" coords="1561,459,1647,485"/>
+<area shape="rect" id="node8" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="1921,560,2106,587"/>
+<area shape="rect" id="node9" href="$a00139.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="1529,611,1679,637"/>
+<area shape="rect" id="node15" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="2155,661,2325,688"/>
+<area shape="rect" id="node7" href="$a00110.html#a9c751f48f189bdf68240e476f01ea070" title="method to send character on the serial interface " alt="" coords="1757,459,1843,485"/>
+<area shape="rect" id="node10" href="$a00139.html#a90ba4da2c534f1db3da8fa7da1a6a008" title="view_shell_print_chars\l_tests" alt="" coords="1938,646,2089,687"/>
+<area shape="rect" id="node16" href="$a00139.html#a444c2b86fb4d2d3159abef82d10c0e2f" title="Print char. " alt="" coords="1728,611,1872,637"/>
+<area shape="rect" id="node11" href="$a00139.html#a584921e97f46e697dc02a491eaa752c4" title="view_shell_reset_shell" alt="" coords="2374,712,2525,739"/>
+<area shape="rect" id="node14" href="$a00139.html#a720d48ba809d3abd59e7c74b4e36c927" title="view_shell_init_cursor" alt="" coords="2376,636,2523,663"/>
+<area shape="rect" id="node12" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="2573,737,2720,764"/>
+<area shape="rect" id="node13" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="2768,737,2885,764"/>
+<area shape="rect" id="node18" href="$a00094.html#acca237b9ecee799249e3cca8c58bb564" title="Initialize the LCD display. " alt="" coords="449,284,553,311"/>
+<area shape="rect" id="node25" href="$a00119.html#aa7a22d5f99d61081b2b6b5b45ed3ba7c" title="Detach all touch surface. " alt="" coords="416,427,587,453"/>
+<area shape="rect" id="node28" href="$a00125.html#ab26774ea8ec444777b1909e0ad2baaa8" title="Print Base. " alt="" coords="445,624,558,651"/>
+<area shape="rect" id="node29" href="$a00143.html#a5be8bcb5660982fb8078bb036365c30f" title="Convert a XPM image into a 16&#45;bit bitmap format RGB565. " alt="" coords="902,477,1039,504"/>
+<area shape="rect" id="node30" href="$a00094.html#a295559d5876ef00f3b86ab991e534c5e" title="Print an image. " alt="" coords="893,915,1048,941"/>
+<area shape="rect" id="node31" href="$a00119.html#a7ebed9ecb9ef4bd86174782dfd696b03" title="Attach a new button. " alt="" coords="664,529,811,570"/>
+<area shape="rect" id="node36" href="$a00094.html#a1ff7fb69949e7bb6ca9e8eb5b9cb4925" title="Print a gridstruct utils_position start_pos, enum view_color color, char* string. ..." alt="" coords="1105,283,1245,309"/>
+<area shape="rect" id="node37" href="$a00119.html#aee2f484800e931c2032425e86685f182" title="touchmanager_grid_attach" alt="" coords="414,897,589,924"/>
+<area shape="rect" id="node38" href="$a00063.html#ac0956badde2429b233aece56bd89da06" title="controller_tictactoe\l_grid_handler" alt="" coords="435,831,567,873"/>
+<area shape="rect" id="node42" href="$a00063.html#a062b4d01641d10612fe34e41a79b536c" title="controller_tictactoe\l_validate_button_handler" alt="" coords="419,1059,583,1101"/>
+<area shape="rect" id="node48" href="$a00141.html#a4c8201d857a92db6524436e478cc69ca" title="Set text. " alt="" coords="2385,342,2513,383"/>
+<area shape="rect" id="node19" href="$a00092.html#a400a1db7dba502195b2cc6bd7336504a" title="Initialize the liquid crystal display controller. " alt="" coords="702,259,773,285"/>
+<area shape="rect" id="node23" href="$a00092.html#a227bd8abc8de74627513069b2ea55247" title="Enable the liquid crystal display controller. " alt="" coords="692,309,783,336"/>
+<area shape="rect" id="node24" href="$a00143.html#a6060fc07ae096137c2a9cbb49cf0a5ba" title="Initialize the xpm module internal resources. " alt="" coords="702,208,773,235"/>
+<area shape="rect" id="node20" href="$a00092.html#a8aa82f92888776122e4a26c33cc4a158" title="Disable the liquid crystal display controller. " alt="" coords="923,208,1018,235"/>
+<area shape="rect" id="node21" href="$a00092.html#ae92ed46660502db7d6fbb08759f3baae" title="Clear the background screen. " alt="" coords="907,259,1034,285"/>
+<area shape="rect" id="node22" href="$a00085.html#a1b5edeffa3122d385f4d40038a114719" title="imx27_clock_get_perclk3" alt="" coords="886,309,1055,336"/>
+<area shape="rect" id="node26" href="$a00119.html#a845b61c58eec82e2422632deafe2183a" title="Detach all buttons. " alt="" coords="664,361,811,402"/>
+<area shape="rect" id="node27" href="$a00119.html#aa22035ed72655286ecc7a4fafa6d7625" title="Detach all grids. " alt="" coords="638,427,837,453"/>
+<area shape="rect" id="node32" href="$a00055.html#a42355a0edc713dc7d36a1a871a3c0c4a" title="controller_button_home\l_handler" alt="" coords="659,646,816,687"/>
+<area shape="rect" id="node33" href="$a00098.html#a82e79115acee0b29a275c601cd685143" title="Stops an application. " alt="" coords="912,763,1029,789"/>
+<area shape="rect" id="node34" href="$a00098.html#a1b2a136baa2b69e410684e0d73f1e880" title="Set last game running. " alt="" coords="896,579,1045,605"/>
+<area shape="rect" id="node35" href="$a00059.html#ab7414d6d28f006f41adfde76c57648f3" title="Starts the home app. " alt="" coords="897,528,1044,555"/>
+<area shape="rect" id="node39" href="$a00104.html#a4e198d1a1968081f30a36bb41f957f47" title="Get the grid case state. " alt="" coords="650,1016,825,1043"/>
+<area shape="rect" id="node41" href="$a00141.html#a08eea4beecc122818085b672888dff7b" title="Set case. " alt="" coords="656,915,819,941"/>
+<area shape="rect" id="node40" href="$a00104.html#a895c2d3ed645d5e3a0e7283e92075fee" title="model_tictactoe_valid" alt="" coords="897,1067,1044,1093"/>
+<area shape="rect" id="node43" href="$a00104.html#aae17453d6097c94cce954efdf0e1456d" title="Update the grid to add the last move. " alt="" coords="649,1117,826,1144"/>
+<area shape="rect" id="node44" href="$a00104.html#a1a4f18f7cd6f6b53b6861505a36fe899" title="Returns the winner or sets it when surrender. " alt="" coords="658,1168,817,1195"/>
+<area shape="rect" id="node45" href="$a00102.html#a4dbc753be2bb05182be5b08fd8d17e02" title="Updates the score. " alt="" coords="655,1219,820,1245"/>
+<area shape="rect" id="node46" href="$a00063.html#af766ad3e266a1eabbd44f650094ef129" title="Stops the Tic&#45;Tac&#45;Toe app. " alt="" coords="655,864,819,891"/>
+<area shape="rect" id="node47" href="$a00104.html#a053d584cfb51b403b92add5cb3a2b034" title="Returns true if the game has ended. " alt="" coords="658,1067,817,1093"/>
+<area shape="rect" id="node49" href="$a00094.html#a00ad8aad37f5addb2b1c94c53d88b39d" title="Print text. " alt="" coords="2576,505,2717,532"/>
+</map>

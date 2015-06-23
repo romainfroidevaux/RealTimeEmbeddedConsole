@@ -1,0 +1,8 @@
+<map id="imx27_clock.h" name="imx27_clock.h">
+<area shape="rect" id="node2" href="$a00065.html" title="cspi.c" alt="" coords="5,80,61,107"/>
+<area shape="rect" id="node3" href="$a00075.html" title="fec.c" alt="" coords="87,80,137,107"/>
+<area shape="rect" id="node4" href="$a00082.html" title="i2c.c" alt="" coords="161,80,212,107"/>
+<area shape="rect" id="node5" href="$a00085.html" title="imx27_clock.c" alt="" coords="236,80,343,107"/>
+<area shape="rect" id="node6" href="$a00092.html" title="lcdc.c" alt="" coords="367,80,424,107"/>
+<area shape="rect" id="node7" href="$a00110.html" title="serial.c" alt="" coords="449,80,513,107"/>
+</map>

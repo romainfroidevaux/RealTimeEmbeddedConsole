@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['score',['score',['../a00137.html#ab23cb56e0136b5f271dd7d44c868c8bdaab498300c109cb85225e3e1ac89e35e0',1,'view_home.h']]],
+  ['score_5fplayer1',['score_player1',['../a00104.html#a48f15947180e405449a3a70e64f99d6ca1a8b87e5ef674ccee9fad89ec7626477',1,'model_score.h']]],
+  ['score_5fplayer2',['score_player2',['../a00104.html#a48f15947180e405449a3a70e64f99d6ca310c9b26500400283702ee72ed0767fd',1,'model_score.h']]],
+  ['score_5freplay',['score_replay',['../a00139.html#a324ee119e03dee7ccb4c53e1494f818ba685a0f5c5551d9cf3e64732382def930',1,'view_score.h']]],
+  ['score_5freset',['score_reset',['../a00139.html#a324ee119e03dee7ccb4c53e1494f818ba726eee077ec670a9c11d386caf86d1e6',1,'view_score.h']]],
+  ['score_5ftie',['score_tie',['../a00104.html#a48f15947180e405449a3a70e64f99d6ca34cf5a93dc589955e0aff03d21e752cf',1,'model_score.h']]],
+  ['shell',['shell',['../a00137.html#ab23cb56e0136b5f271dd7d44c868c8bdae2a61a4a8621cc659f5be8206e238c55',1,'view_home.h']]],
+  ['ship1',['ship1',['../a00129.html#a8d27c963cf48f9f7300c87d2ec06a716a379aba23c962ddc200918c01ab5e5a1b',1,'view_battleship.h']]],
+  ['ship2',['ship2',['../a00129.html#a8d27c963cf48f9f7300c87d2ec06a716a221d55ebe3ebdc9a77a2b44532a532ba',1,'view_battleship.h']]],
+  ['ship3',['ship3',['../a00129.html#a8d27c963cf48f9f7300c87d2ec06a716a997f98081c9155e682229b496084fc16',1,'view_battleship.h']]],
+  ['ship_5fempty',['ship_empty',['../a00129.html#a2768ad4cd30ff83f678f9fda88d7be34af2f6b5b04eb4f189eced5995ee0651f6',1,'view_battleship.h']]],
+  ['ship_5fhit',['ship_hit',['../a00129.html#a2768ad4cd30ff83f678f9fda88d7be34afdd1066dd827b4337eb07e8dc8683f33',1,'view_battleship.h']]],
+  ['ship_5fmiss',['ship_miss',['../a00129.html#a2768ad4cd30ff83f678f9fda88d7be34ac64b27b98bf05420ceb7207bf046d49a',1,'view_battleship.h']]],
+  ['ship_5fpresent',['ship_present',['../a00129.html#a2768ad4cd30ff83f678f9fda88d7be34a751595600ecb1ebf534eeaaf9ed94d24',1,'view_battleship.h']]],
+  ['ship_5fselect',['ship_select',['../a00129.html#a2768ad4cd30ff83f678f9fda88d7be34a2960a1f6dedaeff0cbdda501c9c95f62',1,'view_battleship.h']]],
+  ['spi1',['SPI1',['../a00067.html#ab96e1cd18f3fc9b22bebcce8c05147c3add83ddb396fbcb33f2d61248e5c4a185',1,'cspi.h']]],
+  ['spi2',['SPI2',['../a00067.html#ab96e1cd18f3fc9b22bebcce8c05147c3a382fe69d09c301ce8af3660713dfe8a2',1,'cspi.h']]],
+  ['ss0',['SS0',['../a00067.html#ad07f585896ec08c85f7614d260e1c6a7a2f3852ef33ea2ab6eaee32053324d5f9',1,'cspi.h']]],
+  ['ss1',['SS1',['../a00067.html#ad07f585896ec08c85f7614d260e1c6a7a2aea767ca35a3b80d1924f9fe2d2690a',1,'cspi.h']]],
+  ['ss2',['SS2',['../a00067.html#ad07f585896ec08c85f7614d260e1c6a7ac55ca9ce03e85e4297c02796c8902cd4',1,'cspi.h']]],
+  ['state_5freset',['state_reset',['../a00052.html#aa19be6305a5a4485e1e70de70ed7d677ae2bc224423cb0102ab4c229d7ff44c33',1,'chronometer.c']]],
+  ['state_5fstart',['state_start',['../a00052.html#aa19be6305a5a4485e1e70de70ed7d677adcab8a8a40fd17331af6a37d7bb90580',1,'chronometer.c']]],
+  ['state_5fstop',['state_stop',['../a00052.html#aa19be6305a5a4485e1e70de70ed7d677a61e38da8eb46efd9e5167d32ed26bcae',1,'chronometer.c']]],
+  ['stopped',['stopped',['../a00125.html#a8030beb38be1ca3de87224664ddc04dda73e5e3627dfa268bdbf7c39ff83c0c8e',1,'utils.h']]],
+  ['submarine',['submarine',['../a00102.html#a1217ab94f3163f7acca96d1b1a2e27b8a7759ea803a56f385d5cfe194159b9eeb',1,'model_battleship.h']]]
+];

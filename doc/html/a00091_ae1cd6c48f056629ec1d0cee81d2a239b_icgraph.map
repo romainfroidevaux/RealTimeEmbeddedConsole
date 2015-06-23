@@ -1,0 +1,14 @@
+<map id="kernel_reschedule" name="kernel_reschedule">
+<area shape="rect" id="node2" href="$a00054.html#a24a14e13ec1bfa7c365139a35afce315" title="Reads a whole line from the serial interface. " alt="" coords="189,5,358,32"/>
+<area shape="rect" id="node3" href="$a00091.html#a2f28e250d617aec158e59b8cd820ec48" title="Exit the current thread. " alt="" coords="209,56,337,83"/>
+<area shape="rect" id="node4" href="$a00106.html#a06136cc5f8410869a86e59354a4cbca7" title="network_receive" alt="" coords="424,107,539,133"/>
+<area shape="rect" id="node6" href="$a00091.html#a37bfdfdddac129992504e45375d7e080" title="Launch the kernel main thread. " alt="" coords="222,309,325,336"/>
+<area shape="rect" id="node8" href="$a00091.html#afbb3b3ad0c8f22181212d20f10187e73" title="Passes controle to another thread and sleep during for specified time. " alt="" coords="204,208,343,235"/>
+<area shape="rect" id="node9" href="$a00091.html#a66d63634a0a02bfd0a24b3dd557d661b" title="Block the thread until one is available. " alt="" coords="210,259,337,285"/>
+<area shape="rect" id="node10" href="$a00107.html#a501f8a6c8f6f40b7dd5c80bc5a1a7e03" title="Receive 1 frame. " alt="" coords="197,157,350,184"/>
+<area shape="rect" id="node11" href="$a00107.html#a415b4dc6446776fc9cbcc521a374345c" title="Send ICMP request (ping) " alt="" coords="224,360,323,387"/>
+<area shape="rect" id="node13" href="$a00120.html#aec01fa7800921f9b360c6b754285496d" title="Get the position when the touchscreen is no more touched. " alt="" coords="182,411,365,437"/>
+<area shape="rect" id="node5" href="$a00107.html#a53866cf213c2b2ea49bce93552ac766f" title="Inits network. " alt="" coords="597,107,688,133"/>
+<area shape="rect" id="node7" href="$a00097.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main application. " alt="" coords="456,309,507,336"/>
+<area shape="rect" id="node12" href="$a00115.html#ad3b00af7cdc8f14ddcf8410dfd7c09fb" title="Ping. " alt="" coords="414,360,549,387"/>
+</map>

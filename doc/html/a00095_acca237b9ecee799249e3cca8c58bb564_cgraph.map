@@ -1,0 +1,8 @@
+<map id="lcddisplay_init" name="lcddisplay_init">
+<area shape="rect" id="node2" href="$a00092.html#a400a1db7dba502195b2cc6bd7336504a" title="Initialize the liquid crystal display controller. " alt="" coords="167,56,238,83"/>
+<area shape="rect" id="node6" href="$a00092.html#a227bd8abc8de74627513069b2ea55247" title="Enable the liquid crystal display controller. " alt="" coords="157,107,248,133"/>
+<area shape="rect" id="node7" href="$a00143.html#a6060fc07ae096137c2a9cbb49cf0a5ba" title="Initialize the xpm module internal resources. " alt="" coords="167,157,238,184"/>
+<area shape="rect" id="node3" href="$a00092.html#a8aa82f92888776122e4a26c33cc4a158" title="Disable the liquid crystal display controller. " alt="" coords="334,5,429,32"/>
+<area shape="rect" id="node4" href="$a00092.html#ae92ed46660502db7d6fbb08759f3baae" title="Clear the background screen. " alt="" coords="318,56,445,83"/>
+<area shape="rect" id="node5" href="$a00085.html#a1b5edeffa3122d385f4d40038a114719" title="imx27_clock_get_perclk3" alt="" coords="297,107,466,133"/>
+</map>

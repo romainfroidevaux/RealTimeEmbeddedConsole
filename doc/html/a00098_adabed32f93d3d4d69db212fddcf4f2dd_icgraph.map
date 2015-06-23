@@ -1,0 +1,5 @@
+<map id="model_get_app_list" name="model_get_app_list">
+<area shape="rect" id="node2" href="$a00114.html#af5f847491cd7bc32048db590b628a30d" title="shell_program_list\l_app_all" alt="" coords="190,5,317,46"/>
+<area shape="rect" id="node3" href="$a00114.html#a3e49f277aa62da6266249696c81b839a" title="shell_program_list\l_app_run" alt="" coords="190,70,317,111"/>
+<area shape="rect" id="node4" href="$a00114.html#ad0129aa897c74a38daddc006f1e0c8ba" title="shell_program_list\l_app_halt" alt="" coords="190,135,317,177"/>
+</map>

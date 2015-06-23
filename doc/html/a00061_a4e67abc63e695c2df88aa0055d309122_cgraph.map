@@ -1,0 +1,7 @@
+<map id="controller_score_button_reset_handler" name="controller_score_button_reset_handler">
+<area shape="rect" id="node2" href="$a00098.html#a02e8dba2df6ec77fa94296670d649f2d" title="Get last game running. " alt="" coords="216,5,365,32"/>
+<area shape="rect" id="node3" href="$a00102.html#ac181b2136c6a156df14017d8989f629f" title="Resets the score for all players. " alt="" coords="225,56,357,83"/>
+<area shape="rect" id="node4" href="$a00137.html#ae4f589f72a6b6bfc2ce04376c749671b" title="view_score_values_print" alt="" coords="211,107,371,133"/>
+<area shape="rect" id="node5" href="$a00094.html#a00ad8aad37f5addb2b1c94c53d88b39d" title="Print text. " alt="" coords="419,107,560,133"/>
+<area shape="rect" id="node6" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="608,107,725,133"/>
+</map>

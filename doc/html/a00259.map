@@ -1,0 +1,10 @@
+<map id="view_battleship.h" name="view_battleship.h">
+<area shape="rect" id="node2" href="$a00057.html" title="controller_battleship.c" alt="" coords="15,155,164,181"/>
+<area shape="rect" id="node3" href="$a00101.html" title="model_battleship.h" alt="" coords="24,80,155,107"/>
+<area shape="rect" id="node4" href="$a00100.html" title="model_battleship.c" alt="" coords="240,155,371,181"/>
+<area shape="rect" id="node5" href="$a00132.html" title="view_battleship_wait.h" alt="" coords="179,80,329,107"/>
+<area shape="rect" id="node6" href="$a00131.html" title="view_battleship_wait.c" alt="" coords="395,155,545,181"/>
+<area shape="rect" id="node7" href="$a00130.html" title="view_battleship_play.h" alt="" coords="406,80,556,107"/>
+<area shape="rect" id="node8" href="$a00129.html" title="view_battleship_play.c" alt="" coords="570,155,720,181"/>
+<area shape="rect" id="node9" href="$a00127.html" title="view_battleship.c" alt="" coords="683,80,803,107"/>
+</map>

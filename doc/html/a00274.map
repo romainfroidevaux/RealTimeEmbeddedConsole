@@ -1,0 +1,9 @@
+<map id="view_score.h" name="view_score.h">
+<area shape="rect" id="node2" href="$a00057.html" title="controller_battleship.c" alt="" coords="5,80,155,107"/>
+<area shape="rect" id="node3" href="$a00059.html" title="controller_home.c" alt="" coords="31,155,156,181"/>
+<area shape="rect" id="node4" href="$a00062.html" title="controller_score.h" alt="" coords="280,80,405,107"/>
+<area shape="rect" id="node5" href="$a00061.html" title="controller_score.c" alt="" coords="180,155,305,181"/>
+<area shape="rect" id="node7" href="$a00137.html" title="view_score.c" alt="" coords="468,155,564,181"/>
+<area shape="rect" id="node8" href="$a00063.html" title="controller_tictactoe.c" alt="" coords="481,80,623,107"/>
+<area shape="rect" id="node6" href="$a00114.html" title="shell_program.c" alt="" coords="329,155,444,181"/>
+</map>

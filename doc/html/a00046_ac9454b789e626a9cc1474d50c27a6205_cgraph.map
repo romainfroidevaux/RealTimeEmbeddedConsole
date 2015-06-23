@@ -1,0 +1,4 @@
+<map id="aitc_init" name="aitc_init">
+<area shape="rect" id="node2" href="$a00087.html#a4d647aeb6c5e06830920ee8a17b3ef33" title="Method to attach an interrupt servicde routine to the i.MX27 interrupt vector table. " alt="" coords="120,5,232,32"/>
+<area shape="rect" id="node3" href="$a00045.html#acbe4e1c8b93134eb37906ef80ec0c576" title="Normal/fast interrupt service routine. " alt="" coords="133,56,219,83"/>
+</map>

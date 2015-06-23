@@ -1,0 +1,4 @@
+<map id="kernel_reschedule" name="kernel_reschedule">
+<area shape="rect" id="node2" href="$a00087.html#aaa547d1d7074b73a55b85640b558923b" title="Method to enable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="181,5,296,32"/>
+<area shape="rect" id="node3" href="$a00090.html#a625aa7e1c6ef47a88bf973f2e6a43e57" title="kernel_transfer" alt="" coords="185,56,292,83"/>
+</map>

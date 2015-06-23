@@ -1,0 +1,9 @@
+<map id="view_home.h" name="view_home.h">
+<area shape="rect" id="node2" href="$a00051.html" title="chronometer.c" alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$a00055.html" title="controller.c" alt="" coords="134,80,220,107"/>
+<area shape="rect" id="node4" href="$a00059.html" title="controller_home.c" alt="" coords="245,80,371,107"/>
+<area shape="rect" id="node5" href="$a00061.html" title="controller_score.c" alt="" coords="395,80,520,107"/>
+<area shape="rect" id="node6" href="$a00097.html" title="main.c" alt="" coords="544,80,605,107"/>
+<area shape="rect" id="node7" href="$a00117.html" title="thermometer.c" alt="" coords="629,80,736,107"/>
+<area shape="rect" id="node8" href="$a00135.html" title="view_home.c" alt="" coords="760,80,856,107"/>
+</map>

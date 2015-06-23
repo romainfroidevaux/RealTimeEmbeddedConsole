@@ -1,0 +1,5 @@
+<map id="fec_init" name="fec_init">
+<area shape="rect" id="node2" href="$a00075.html#ab5385d903e4145cadb4a899ad786d68b" title=" IIM Interface " alt="" coords="125,5,275,32"/>
+<area shape="rect" id="node3" href="$a00075.html#a433a9cfb25c4f926b99242dbd115a556" title="Set MAC address to the register. " alt="" coords="125,56,275,83"/>
+<area shape="rect" id="node4" href="$a00085.html#a2e2607afea61e17ad52a9711abffec6c" title="imx27_clock_get_ahbclk" alt="" coords="117,107,283,133"/>
+</map>

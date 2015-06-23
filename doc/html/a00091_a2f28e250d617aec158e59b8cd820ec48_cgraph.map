@@ -1,0 +1,5 @@
+<map id="kernel_thread_exit" name="kernel_thread_exit">
+<area shape="rect" id="node2" href="$a00090.html#ae1cd6c48f056629ec1d0cee81d2a239b" title="Passes control to another thread. " alt="" coords="182,31,309,57"/>
+<area shape="rect" id="node3" href="$a00087.html#aaa547d1d7074b73a55b85640b558923b" title="Method to enable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="357,5,472,32"/>
+<area shape="rect" id="node4" href="$a00090.html#a625aa7e1c6ef47a88bf973f2e6a43e57" title="kernel_transfer" alt="" coords="361,56,468,83"/>
+</map>

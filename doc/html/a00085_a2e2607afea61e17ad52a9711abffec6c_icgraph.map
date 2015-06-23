@@ -1,0 +1,7 @@
+<map id="imx27_clock_get_ahbclk" name="imx27_clock_get_ahbclk">
+<area shape="rect" id="node2" href="$a00076.html#aa109d9e899a2cc88e41f16b2b13dc1e6" title="Method to initialize the Fast Ethernet Controller (FEC) " alt="" coords="255,5,318,32"/>
+<area shape="rect" id="node5" href="$a00083.html#ae3a498617d450363e5d801f99749cab1" title="Method to set the bus speed. " alt="" coords="219,56,354,83"/>
+<area shape="rect" id="node3" href="$a00106.html#aac0be9a5fd3f946ab9bad92fb3adb49f" title="network_init_fec" alt="" coords="403,5,517,32"/>
+<area shape="rect" id="node4" href="$a00107.html#a53866cf213c2b2ea49bce93552ac766f" title="Inits network. " alt="" coords="565,5,656,32"/>
+<area shape="rect" id="node6" href="$a00083.html#a64303230bf4843297e7ac37ac236ca04" title="Method to initialize the i2c device driver. " alt="" coords="429,56,491,83"/>
+</map>

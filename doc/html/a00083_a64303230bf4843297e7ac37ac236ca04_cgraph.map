@@ -1,0 +1,5 @@
+<map id="i2c_init" name="i2c_init">
+<area shape="rect" id="node2" href="$a00085.html#a7a924300e36e298fe7935520592b25c4" title="imx27_clock_enable_line" alt="" coords="118,5,285,32"/>
+<area shape="rect" id="node3" href="$a00082.html#ae3a498617d450363e5d801f99749cab1" title="Method to set the bus speed. " alt="" coords="134,56,269,83"/>
+<area shape="rect" id="node4" href="$a00085.html#a2e2607afea61e17ad52a9711abffec6c" title="imx27_clock_get_ahbclk" alt="" coords="333,56,499,83"/>
+</map>

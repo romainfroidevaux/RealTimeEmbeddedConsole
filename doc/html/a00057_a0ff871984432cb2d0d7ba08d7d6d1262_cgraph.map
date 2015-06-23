@@ -1,0 +1,10 @@
+<map id="controller_battleship_grid_handler" name="controller_battleship_grid_handler">
+<area shape="rect" id="node2" href="$a00100.html#a2e09f2b8d41dce21fdba939ff1b0d4cb" title="Place a ship on the grid. " alt="" coords="192,5,381,32"/>
+<area shape="rect" id="node3" href="$a00100.html#a8b79bc2b68ad0e17f8560ebcd626f90f" title="Update the grid to add the last move. " alt="" coords="195,56,378,83"/>
+<area shape="rect" id="node5" href="$a00127.html#aa801bd6781d5fd8a67551d26ce9f2a08" title="Set case. " alt="" coords="202,157,371,184"/>
+<area shape="rect" id="node9" href="$a00100.html#a5954e5cba098efd30a7da97505cff1d5" title="Gets a case on the player grid. " alt="" coords="197,107,377,133"/>
+<area shape="rect" id="node4" href="$a00100.html#a165a27b8bfbef6eaaeb08867dfa3676c" title="model_battleship_valid" alt="" coords="429,56,581,83"/>
+<area shape="rect" id="node6" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="432,132,579,159"/>
+<area shape="rect" id="node8" href="$a00094.html#a00ad8aad37f5addb2b1c94c53d88b39d" title="Print text. " alt="" coords="435,183,576,209"/>
+<area shape="rect" id="node7" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="629,157,747,184"/>
+</map>

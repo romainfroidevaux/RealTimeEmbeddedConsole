@@ -1,0 +1,5 @@
+<map id="thermometer_thread_stop" name="thermometer_thread_stop">
+<area shape="rect" id="node2" href="$a00068.html#a89795048017b2cef3b0a15b921313a49" title="Disable the refresh of the display. " alt="" coords="227,5,338,32"/>
+<area shape="rect" id="node4" href="$a00098.html#a82e79115acee0b29a275c601cd685143" title="Stops an application. " alt="" coords="224,56,341,83"/>
+<area shape="rect" id="node3" href="$a00080.html#a26c9215fa9fe1ee99222aac8d7b6f1ce" title="Deconfigure the GPT timer. " alt="" coords="390,5,517,32"/>
+</map>

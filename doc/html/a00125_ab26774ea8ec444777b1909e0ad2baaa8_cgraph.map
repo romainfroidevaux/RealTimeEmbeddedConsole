@@ -1,0 +1,51 @@
+<map id="view_print_base" name="view_print_base">
+<area shape="rect" id="node2" href="$a00143.html#a5be8bcb5660982fb8078bb036365c30f" title="Convert a XPM image into a 16&#45;bit bitmap format RGB565. " alt="" coords="1186,232,1323,259"/>
+<area shape="rect" id="node3" href="$a00094.html#a295559d5876ef00f3b86ab991e534c5e" title="Print an image. " alt="" coords="1177,181,1332,208"/>
+<area shape="rect" id="node5" href="$a00119.html#a7ebed9ecb9ef4bd86174782dfd696b03" title="Attach a new button. " alt="" coords="765,1023,912,1065"/>
+<area shape="rect" id="node6" href="$a00055.html#a42355a0edc713dc7d36a1a871a3c0c4a" title="controller_button_home\l_handler" alt="" coords="168,262,325,303"/>
+<area shape="rect" id="node19" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="2749,921,2896,948"/>
+<area shape="rect" id="node4" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="2944,871,3061,897"/>
+<area shape="rect" id="node7" href="$a00098.html#a82e79115acee0b29a275c601cd685143" title="Stops an application. " alt="" coords="1196,439,1313,465"/>
+<area shape="rect" id="node8" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="2097,769,2282,796"/>
+<area shape="rect" id="node9" href="$a00098.html#a1b2a136baa2b69e410684e0d73f1e880" title="Set last game running. " alt="" coords="965,435,1115,461"/>
+<area shape="rect" id="node10" href="$a00059.html#ab7414d6d28f006f41adfde76c57648f3" title="Starts the home app. " alt="" coords="373,473,520,500"/>
+<area shape="rect" id="node11" href="$a00098.html#a3ca2314193e4ccc9b1f380dfb970a9ee" title="Starts an application. " alt="" coords="1195,719,1314,745"/>
+<area shape="rect" id="node23" href="$a00135.html#aa00bcf8c0582eb3736e5174b95144abd" title="Initialize view. " alt="" coords="585,627,695,653"/>
+<area shape="rect" id="node49" href="$a00117.html#a444aac17cf87c22c1b5c4601123bb7b7" title="Start the refresh display thread. " alt="" coords="569,203,711,245"/>
+<area shape="rect" id="node12" href="$a00098.html#a7d66f431366955834a6a95863de2c3c3" title="Set current running app. " alt="" coords="1402,744,1587,771"/>
+<area shape="rect" id="node13" href="$a00053.html#a9e82cf1952d06dc3e26353f421b00c4f" title="Print a line on the console. " alt="" coords="1415,668,1574,695"/>
+<area shape="rect" id="node14" href="$a00110.html#a365e1388b0e8a87e7eac1c98767de11f" title="method to send a string on the serial interface " alt="" coords="1685,559,1771,585"/>
+<area shape="rect" id="node16" href="$a00139.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="1653,617,1803,644"/>
+<area shape="rect" id="node21" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="2331,668,2501,695"/>
+<area shape="rect" id="node15" href="$a00110.html#a9c751f48f189bdf68240e476f01ea070" title="method to send character on the serial interface " alt="" coords="1912,516,1997,543"/>
+<area shape="rect" id="node17" href="$a00139.html#a90ba4da2c534f1db3da8fa7da1a6a008" title="view_shell_print_chars\l_tests" alt="" coords="2114,602,2265,643"/>
+<area shape="rect" id="node22" href="$a00139.html#a444c2b86fb4d2d3159abef82d10c0e2f" title="Print char. " alt="" coords="1883,617,2027,644"/>
+<area shape="rect" id="node18" href="$a00139.html#a584921e97f46e697dc02a491eaa752c4" title="view_shell_reset_shell" alt="" coords="2550,668,2701,695"/>
+<area shape="rect" id="node20" href="$a00139.html#a720d48ba809d3abd59e7c74b4e36c927" title="view_shell_init_cursor" alt="" coords="2552,592,2699,619"/>
+<area shape="rect" id="node24" href="$a00094.html#acca237b9ecee799249e3cca8c58bb564" title="Initialize the LCD display. " alt="" coords="1203,388,1307,415"/>
+<area shape="rect" id="node31" href="$a00119.html#aa7a22d5f99d61081b2b6b5b45ed3ba7c" title="Detach all touch surface. " alt="" coords="1169,287,1340,313"/>
+<area shape="rect" id="node34" href="$a00135.html#a953727a57f282e7f3c8e70f5f717acef" title="Set temprature. " alt="" coords="1861,921,2048,948"/>
+<area shape="rect" id="node35" href="$a00094.html#a00ad8aad37f5addb2b1c94c53d88b39d" title="Print text. " alt="" coords="2119,871,2260,897"/>
+<area shape="rect" id="node36" href="$a00135.html#a30086bc1582f38d7d247b2735a402127" title="Set time. " alt="" coords="1883,820,2026,847"/>
+<area shape="rect" id="node37" href="$a00059.html#a444589a78b86d64f3fd6c78ad7c47e3f" title="controller_home_button\l_battleship_handler" alt="" coords="760,522,917,563"/>
+<area shape="rect" id="node43" href="$a00059.html#a9914d8e63330ebe6daf9d34aa8b91171" title="controller_home_button\l_tictactoe_handler" alt="" coords="760,457,917,498"/>
+<area shape="rect" id="node45" href="$a00059.html#a3cfd27d2a8960a66809c7d54c4242308" title="controller_home_button\l_shell_handler" alt="" coords="760,587,917,629"/>
+<area shape="rect" id="node47" href="$a00059.html#a65850c04a195f1aa0820671ef299247f" title="controller_home_button\l_score_handler" alt="" coords="760,653,917,694"/>
+<area shape="rect" id="node25" href="$a00092.html#a400a1db7dba502195b2cc6bd7336504a" title="Initialize the liquid crystal display controller. " alt="" coords="1459,451,1530,477"/>
+<area shape="rect" id="node29" href="$a00092.html#a227bd8abc8de74627513069b2ea55247" title="Enable the liquid crystal display controller. " alt="" coords="1449,400,1540,427"/>
+<area shape="rect" id="node30" href="$a00143.html#a6060fc07ae096137c2a9cbb49cf0a5ba" title="Initialize the xpm module internal resources. " alt="" coords="1459,349,1530,376"/>
+<area shape="rect" id="node26" href="$a00092.html#a8aa82f92888776122e4a26c33cc4a158" title="Disable the liquid crystal display controller. " alt="" coords="1681,451,1775,477"/>
+<area shape="rect" id="node27" href="$a00092.html#ae92ed46660502db7d6fbb08759f3baae" title="Clear the background screen. " alt="" coords="1665,501,1791,528"/>
+<area shape="rect" id="node28" href="$a00085.html#a1b5edeffa3122d385f4d40038a114719" title="imx27_clock_get_perclk3" alt="" coords="1643,400,1813,427"/>
+<area shape="rect" id="node32" href="$a00119.html#a845b61c58eec82e2422632deafe2183a" title="Detach all buttons. " alt="" coords="1421,283,1568,325"/>
+<area shape="rect" id="node33" href="$a00119.html#aa22035ed72655286ecc7a4fafa6d7625" title="Detach all grids. " alt="" coords="1395,232,1594,259"/>
+<area shape="rect" id="node38" href="$a00059.html#a222f6c33a98e99678cf86fb751602220" title="Stops the home app. " alt="" coords="967,485,1113,512"/>
+<area shape="rect" id="node40" href="$a00057.html#a2b7f69608644913ecd87f127ee8acd88" title="Starts the battleship app. " alt="" coords="971,653,1109,694"/>
+<area shape="rect" id="node39" href="$a00117.html#a880caba7a7eab57bad4320f65df364bb" title="Stop the refresh display thread. " alt="" coords="1183,490,1326,531"/>
+<area shape="rect" id="node41" href="$a00112.html#a9193e76846752ccb14c87b85b247e6fc" title="Attach a new command to the Shell interpreter. " alt="" coords="1176,601,1333,628"/>
+<area shape="rect" id="node42" href="$a00100.html#acaa02ae7751e545c80448e991e20b143" title="Resets the grid. " alt="" coords="1163,660,1347,687"/>
+<area shape="rect" id="node44" href="$a00063.html#a0bf97ef0a0a7e7b4a0934566612011dd" title="Starts the Tic&#45;Tac&#45;Toe app. " alt="" coords="974,587,1106,629"/>
+<area shape="rect" id="node46" href="$a00139.html#abbe80c8af1422aed9a1695b271317f43" title="Initialize Shell view. " alt="" coords="988,283,1092,309"/>
+<area shape="rect" id="node48" href="$a00061.html#a82bddd27bc9d265251ffc0d312c38cab" title="Starts the score app. " alt="" coords="967,769,1113,796"/>
+<area shape="rect" id="node50" href="$a00090.html#a65a6817e33944a04786d3c7a2bb10fea" title="Create a new thread. " alt="" coords="767,203,910,229"/>
+</map>

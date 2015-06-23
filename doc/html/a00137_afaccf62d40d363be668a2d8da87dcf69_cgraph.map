@@ -1,0 +1,5 @@
+<map id="view_score_image_print" name="view_score_image_print">
+<area shape="rect" id="node2" href="$a00143.html#a5be8bcb5660982fb8078bb036365c30f" title="Convert a XPM image into a 16&#45;bit bitmap format RGB565. " alt="" coords="222,5,359,32"/>
+<area shape="rect" id="node3" href="$a00094.html#a295559d5876ef00f3b86ab991e534c5e" title="Print an image. " alt="" coords="213,56,368,83"/>
+<area shape="rect" id="node4" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="416,56,533,83"/>
+</map>

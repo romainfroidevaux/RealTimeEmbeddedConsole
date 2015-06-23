@@ -1,0 +1,24 @@
+<map id="network_ping" name="network_ping">
+<area shape="rect" id="node2" href="$a00053.html#a9e82cf1952d06dc3e26353f421b00c4f" title="Print a line on the console. " alt="" coords="162,224,321,251"/>
+<area shape="rect" id="node17" href="$a00106.html#a47d06573d8ae56ca162ab9d277222811" title="Send arp request. " alt="" coords="153,325,330,352"/>
+<area shape="rect" id="node18" href="$a00088.html#a322a3556614cf728f117b433e661dd24" title="Get the IP address configured. " alt="" coords="391,325,518,352"/>
+<area shape="rect" id="node19" href="$a00075.html#ab5385d903e4145cadb4a899ad786d68b" title=" IIM Interface " alt="" coords="380,376,529,403"/>
+<area shape="rect" id="node20" href="$a00075.html#a55fdb05f413d753f579f1f31c484a489" title="FEC send. " alt="" coords="417,427,492,453"/>
+<area shape="rect" id="node21" href="$a00090.html#ae1cd6c48f056629ec1d0cee81d2a239b" title="Passes control to another thread. " alt="" coords="178,123,305,149"/>
+<area shape="rect" id="node23" href="$a00106.html#a202b124002be99817d7e45be5e633246" title="checksum" alt="" coords="200,477,283,504"/>
+<area shape="rect" id="node3" href="$a00110.html#a365e1388b0e8a87e7eac1c98767de11f" title="method to send a string on the serial interface " alt="" coords="412,224,497,251"/>
+<area shape="rect" id="node7" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="771,123,957,149"/>
+<area shape="rect" id="node8" href="$a00139.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="379,72,530,99"/>
+<area shape="rect" id="node14" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="1006,107,1175,133"/>
+<area shape="rect" id="node4" href="$a00110.html#a9c751f48f189bdf68240e476f01ea070" title="method to send character on the serial interface " alt="" coords="608,224,693,251"/>
+<area shape="rect" id="node5" href="$a00087.html#aad559c0a8c9209a2751887cac7cf8881" title="Method to disable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="805,224,923,251"/>
+<area shape="rect" id="node6" href="$a00087.html#aaa547d1d7074b73a55b85640b558923b" title="Method to enable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="807,173,921,200"/>
+<area shape="rect" id="node9" href="$a00139.html#a90ba4da2c534f1db3da8fa7da1a6a008" title="view_shell_print_chars\l_tests" alt="" coords="789,57,939,98"/>
+<area shape="rect" id="node15" href="$a00139.html#a444c2b86fb4d2d3159abef82d10c0e2f" title="Print char. " alt="" coords="579,72,723,99"/>
+<area shape="rect" id="node10" href="$a00139.html#a584921e97f46e697dc02a491eaa752c4" title="view_shell_reset_shell" alt="" coords="1225,107,1375,133"/>
+<area shape="rect" id="node13" href="$a00139.html#a720d48ba809d3abd59e7c74b4e36c927" title="view_shell_init_cursor" alt="" coords="1227,56,1373,83"/>
+<area shape="rect" id="node11" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="1424,81,1571,108"/>
+<area shape="rect" id="node12" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="1619,44,1736,71"/>
+<area shape="rect" id="node16" href="$a00094.html#afa7fddb197e48b1388d0e6d3e252c8c4" title="Print char. " alt="" coords="1019,5,1163,32"/>
+<area shape="rect" id="node22" href="$a00090.html#a625aa7e1c6ef47a88bf973f2e6a43e57" title="kernel_transfer" alt="" coords="401,21,508,48"/>
+</map>

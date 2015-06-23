@@ -1,0 +1,4 @@
+<map id="imx27_clock_get_perclk2" name="imx27_clock_get_perclk2">
+<area shape="rect" id="node2" href="$a00066.html#a369dce11e10272913c89143231e0d28b" title="Method to initialize the resources of a CSPI. " alt="" coords="225,5,295,32"/>
+<area shape="rect" id="node3" href="$a00122.html#a2c7ca2e0e493dc77f2b143e76ab4a00b" title="Method to initialize the resources of the TSC2101 controller This method should be called prior any o..." alt="" coords="345,5,437,32"/>
+</map>

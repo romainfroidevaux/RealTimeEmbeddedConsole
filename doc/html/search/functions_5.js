@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['get_5fcolor',['get_color',['../a00144.html#a6b060cf55d3c47d150ce0082aabf5f3d',1,'xpm.c']]],
+  ['get_5fposition',['get_position',['../a00120.html#a981a0a8847a0a47d7a9342b969a8159e',1,'touchmanager.c']]],
+  ['get_5fsample',['get_sample',['../a00050.html#a9b2e8cc9ce02898731ab70542b803869',1,'calibrate.c']]],
+  ['get_5ftemp',['get_temp',['../a00118.html#a0b163fa235d9b9ec62a93c4ee26f390d',1,'thermometer.c']]],
+  ['getxy',['getxy',['../a00050.html#a8d5f9f1cc7702ee0230c44914a857715',1,'calibrate.c']]],
+  ['gpio_5fattach',['gpio_attach',['../a00079.html#a164f7409571b089d3bec5b735a097e05',1,'gpio_attach(enum gpio_ports port, uint32_t pin, enum gpio_interrupt_modes mode, gpio_isr_t routine, void *param):&#160;gpio.c'],['../a00080.html#a164f7409571b089d3bec5b735a097e05',1,'gpio_attach(enum gpio_ports port, uint32_t pin, enum gpio_interrupt_modes mode, gpio_isr_t routine, void *param):&#160;gpio.c']]],
+  ['gpio_5fconfigure',['gpio_configure',['../a00079.html#a8d8cab1f5e141cd99459408887732864',1,'gpio_configure(enum gpio_ports port, uint32_t bitmask, enum gpio_modes mode):&#160;gpio.c'],['../a00080.html#a8d8cab1f5e141cd99459408887732864',1,'gpio_configure(enum gpio_ports port, uint32_t bitmask, enum gpio_modes mode):&#160;gpio.c']]],
+  ['gpio_5fdetach',['gpio_detach',['../a00079.html#ab823a533484d50e481c60cb436abe6cc',1,'gpio_detach(enum gpio_ports port, uint32_t pin):&#160;gpio.c'],['../a00080.html#ab823a533484d50e481c60cb436abe6cc',1,'gpio_detach(enum gpio_ports port, uint32_t pin):&#160;gpio.c']]],
+  ['gpio_5fdisable',['gpio_disable',['../a00079.html#a3f950909338015b91555feea0942b7d8',1,'gpio_disable(enum gpio_ports port, uint32_t pin):&#160;gpio.c'],['../a00080.html#a3f950909338015b91555feea0942b7d8',1,'gpio_disable(enum gpio_ports port, uint32_t pin):&#160;gpio.c']]],
+  ['gpio_5fenable',['gpio_enable',['../a00079.html#a9ee67b3d213985c5214d1356484ad0d1',1,'gpio_enable(enum gpio_ports port, uint32_t pin):&#160;gpio.c'],['../a00080.html#a9ee67b3d213985c5214d1356484ad0d1',1,'gpio_enable(enum gpio_ports port, uint32_t pin):&#160;gpio.c']]],
+  ['gpio_5fgetbits',['gpio_getbits',['../a00079.html#a92a790a3e6c5f09ff946978e5f72ab80',1,'gpio_getbits(enum gpio_ports port):&#160;gpio.c'],['../a00080.html#a92a790a3e6c5f09ff946978e5f72ab80',1,'gpio_getbits(enum gpio_ports port):&#160;gpio.c']]],
+  ['gpio_5finit',['gpio_init',['../a00079.html#a84f88a73b7bafb4c856cb7ba9f6fe8b5',1,'gpio_init():&#160;gpio.c'],['../a00080.html#a84f88a73b7bafb4c856cb7ba9f6fe8b5',1,'gpio_init():&#160;gpio.c']]],
+  ['gpio_5fisr',['gpio_isr',['../a00079.html#a5806718a49d21bb5ffbd7dfa1148121c',1,'gpio.c']]],
+  ['gpio_5fresetbits',['gpio_resetbits',['../a00079.html#a98699d84cde24942a68b00c5d628a971',1,'gpio_resetbits(enum gpio_ports port, uint32_t bitmask):&#160;gpio.c'],['../a00080.html#a98699d84cde24942a68b00c5d628a971',1,'gpio_resetbits(enum gpio_ports port, uint32_t bitmask):&#160;gpio.c']]],
+  ['gpio_5fsetbits',['gpio_setbits',['../a00079.html#a64e395d02f331e4b331544993880b80d',1,'gpio_setbits(enum gpio_ports port, uint32_t bitmask):&#160;gpio.c'],['../a00080.html#a64e395d02f331e4b331544993880b80d',1,'gpio_setbits(enum gpio_ports port, uint32_t bitmask):&#160;gpio.c']]],
+  ['gpt_5finit',['gpt_init',['../a00081.html#a334de3fd513fdc676d279ee4e9297550',1,'gpt_init():&#160;gpt.c'],['../a00082.html#a334de3fd513fdc676d279ee4e9297550',1,'gpt_init():&#160;gpt.c']]],
+  ['gpt_5ftimer_5fcreate',['gpt_timer_create',['../a00081.html#a2bd6b3accec24ade6e13368d9603bca7',1,'gpt_timer_create(unsigned frequency, gpt_routine_t routine, void *param):&#160;gpt.c'],['../a00082.html#a2bd6b3accec24ade6e13368d9603bca7',1,'gpt_timer_create(unsigned frequency, gpt_routine_t routine, void *param):&#160;gpt.c']]],
+  ['gpt_5ftimer_5fdestroy',['gpt_timer_destroy',['../a00081.html#a26c9215fa9fe1ee99222aac8d7b6f1ce',1,'gpt_timer_destroy(enum timers timer):&#160;gpt.c'],['../a00082.html#a26c9215fa9fe1ee99222aac8d7b6f1ce',1,'gpt_timer_destroy(enum timers timer):&#160;gpt.c']]],
+  ['gpt_5ftimer_5frestart',['gpt_timer_restart',['../a00081.html#a5b2a750e820a0633020a08601ac4287f',1,'gpt_timer_restart(enum timers timer):&#160;gpt.c'],['../a00082.html#a5b2a750e820a0633020a08601ac4287f',1,'gpt_timer_restart(enum timers timer):&#160;gpt.c']]],
+  ['gpt_5ftimer_5fstart_5fcontinuous',['gpt_timer_start_continuous',['../a00081.html#ae0fa2f4bd70fe2803636fabc2e4fe00d',1,'gpt_timer_start_continuous(enum timers timer, int period):&#160;gpt.c'],['../a00082.html#ae0fa2f4bd70fe2803636fabc2e4fe00d',1,'gpt_timer_start_continuous(enum timers timer, int period):&#160;gpt.c']]],
+  ['gpt_5ftimer_5fstart_5foneshot',['gpt_timer_start_oneshot',['../a00081.html#a06d08f528caf1055565dd72523c5fba7',1,'gpt_timer_start_oneshot(enum timers timer, int period):&#160;gpt.c'],['../a00082.html#a06d08f528caf1055565dd72523c5fba7',1,'gpt_timer_start_oneshot(enum timers timer, int period):&#160;gpt.c']]],
+  ['gpt_5ftimer_5fstop',['gpt_timer_stop',['../a00081.html#a5071d54524b4ac54dcf58322403ceedd',1,'gpt_timer_stop(enum timers timer):&#160;gpt.c'],['../a00082.html#a5071d54524b4ac54dcf58322403ceedd',1,'gpt_timer_stop(enum timers timer):&#160;gpt.c']]]
+];

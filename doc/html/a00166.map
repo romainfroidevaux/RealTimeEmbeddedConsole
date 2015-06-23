@@ -1,0 +1,13 @@
+<map id="controller_home.c" name="controller_home.c">
+<area shape="rect" id="node2" href="$a00099.html" title="model.h" alt="" coords="722,80,789,107"/>
+<area shape="rect" id="node5" href="$a00138.html" title="view_score.h" alt="" coords="1117,155,1213,181"/>
+<area shape="rect" id="node6" href="$a00060.html" title="controller_home.h" alt="" coords="321,80,447,107"/>
+<area shape="rect" id="node7" href="$a00058.html" title="controller_battleship.h" alt="" coords="815,80,964,107"/>
+<area shape="rect" id="node8" href="$a00062.html" title="controller_score.h" alt="" coords="1103,80,1228,107"/>
+<area shape="rect" id="node9" href="$a00064.html" title="controller_tictactoe.h" alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node10" href="$a00113.html" title="shell_interpreter.h" alt="" coords="172,80,297,107"/>
+<area shape="rect" id="node11" href="$a00136.html" title="view_home.h" alt="" coords="471,80,567,107"/>
+<area shape="rect" id="node12" href="$a00140.html" title="view_shell.h" alt="" coords="988,80,1079,107"/>
+<area shape="rect" id="node14" href="$a00118.html" title="thermometer.h" alt="" coords="591,80,697,107"/>
+<area shape="rect" id="node3" href="$a00124.html" title="utils.h" alt="" coords="671,155,728,181"/>
+</map>

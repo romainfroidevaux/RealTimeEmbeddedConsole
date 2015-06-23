@@ -1,0 +1,15 @@
+<map id="view.h" name="view.h">
+<area shape="rect" id="node2" href="$a00095.html" title="lcddisplay.h" alt="" coords="720,80,811,107"/>
+<area shape="rect" id="node4" href="$a00108.html" title="no_more_used.c" alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node5" href="$a00125.html" title="view.c" alt="" coords="147,155,204,181"/>
+<area shape="rect" id="node6" href="$a00127.html" title="view_battleship.c" alt="" coords="229,155,349,181"/>
+<area shape="rect" id="node7" href="$a00129.html" title="view_battleship_play.c" alt="" coords="374,155,524,181"/>
+<area shape="rect" id="node8" href="$a00131.html" title="view_battleship_wait.c" alt="" coords="549,155,699,181"/>
+<area shape="rect" id="node9" href="$a00133.html" title="view_calibrate.c" alt="" coords="831,155,944,181"/>
+<area shape="rect" id="node10" href="$a00135.html" title="view_home.c" alt="" coords="969,155,1065,181"/>
+<area shape="rect" id="node11" href="$a00137.html" title="view_score.c" alt="" coords="1089,155,1185,181"/>
+<area shape="rect" id="node12" href="$a00139.html" title="view_shell.c" alt="" coords="1209,155,1300,181"/>
+<area shape="rect" id="node13" href="$a00141.html" title="view_tictactoe.c" alt="" coords="1324,155,1439,181"/>
+<area shape="rect" id="node14" href="$a00094.html" title="lcddisplay.c" alt="" coords="1088,80,1179,107"/>
+<area shape="rect" id="node3" href="$a00049.html" title="calibrate.c" alt="" coords="724,155,807,181"/>
+</map>

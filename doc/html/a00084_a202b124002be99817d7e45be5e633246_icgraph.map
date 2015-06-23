@@ -1,0 +1,8 @@
+<map id="checksum" name="checksum">
+<area shape="rect" id="node2" href="$a00107.html#a415b4dc6446776fc9cbcc521a374345c" title="Send ICMP request (ping) " alt="" coords="173,5,272,32"/>
+<area shape="rect" id="node4" href="$a00107.html#aa94a193707d98be5f2f4136f0ce9ae36" title="Send ICMP reply. " alt="" coords="137,56,309,83"/>
+<area shape="rect" id="node3" href="$a00115.html#ad3b00af7cdc8f14ddcf8410dfd7c09fb" title="Ping. " alt="" coords="367,5,502,32"/>
+<area shape="rect" id="node5" href="$a00107.html#a501f8a6c8f6f40b7dd5c80bc5a1a7e03" title="Receive 1 frame. " alt="" coords="358,56,511,83"/>
+<area shape="rect" id="node6" href="$a00106.html#a06136cc5f8410869a86e59354a4cbca7" title="network_receive" alt="" coords="560,56,675,83"/>
+<area shape="rect" id="node7" href="$a00107.html#a53866cf213c2b2ea49bce93552ac766f" title="Inits network. " alt="" coords="723,56,813,83"/>
+</map>

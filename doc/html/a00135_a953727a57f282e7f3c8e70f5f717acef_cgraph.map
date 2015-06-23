@@ -1,0 +1,6 @@
+<map id="view_home_set_temperature" name="view_home_set_temperature">
+<area shape="rect" id="node2" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="241,5,426,32"/>
+<area shape="rect" id="node3" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="260,56,407,83"/>
+<area shape="rect" id="node5" href="$a00094.html#a00ad8aad37f5addb2b1c94c53d88b39d" title="Print text. " alt="" coords="263,107,404,133"/>
+<area shape="rect" id="node4" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="475,81,592,108"/>
+</map>

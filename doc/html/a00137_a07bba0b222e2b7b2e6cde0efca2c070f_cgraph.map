@@ -1,0 +1,51 @@
+<map id="view_score_button_print" name="view_score_button_print">
+<area shape="rect" id="node2" href="$a00143.html#a5be8bcb5660982fb8078bb036365c30f" title="Convert a XPM image into a 16&#45;bit bitmap format RGB565. " alt="" coords="1366,195,1503,221"/>
+<area shape="rect" id="node3" href="$a00061.html#a6701201ea1976c1f1f044c1835f5f765" title="controller_score_button\l_replay_handler" alt="" coords="213,1041,371,1082"/>
+<area shape="rect" id="node24" href="$a00094.html#a295559d5876ef00f3b86ab991e534c5e" title="Print an image. " alt="" coords="1357,431,1512,457"/>
+<area shape="rect" id="node26" href="$a00119.html#a7ebed9ecb9ef4bd86174782dfd696b03" title="Attach a new button. " alt="" coords="1120,398,1267,439"/>
+<area shape="rect" id="node48" href="$a00061.html#a4e67abc63e695c2df88aa0055d309122" title="controller_score_button\l_reset_handler" alt="" coords="213,1607,371,1649"/>
+<area shape="rect" id="node4" href="$a00098.html#a02e8dba2df6ec77fa94296670d649f2d" title="Get last game running. " alt="" coords="424,1589,573,1616"/>
+<area shape="rect" id="node5" href="$a00098.html#a82e79115acee0b29a275c601cd685143" title="Stops an application. " alt="" coords="1376,1023,1493,1049"/>
+<area shape="rect" id="node6" href="$a00063.html#a0bf97ef0a0a7e7b4a0934566612011dd" title="Starts the Tic&#45;Tac&#45;Toe app. " alt="" coords="433,958,565,999"/>
+<area shape="rect" id="node39" href="$a00057.html#a2b7f69608644913ecd87f127ee8acd88" title="Starts the battleship app. " alt="" coords="429,1041,568,1082"/>
+<area shape="rect" id="node7" href="$a00104.html#a76fd3705ac2cc234c6660ff6e9d1cc7b" title="Resets the grid. " alt="" coords="629,915,808,941"/>
+<area shape="rect" id="node8" href="$a00098.html#a3ca2314193e4ccc9b1f380dfb970a9ee" title="Starts an application. " alt="" coords="659,965,778,992"/>
+<area shape="rect" id="node15" href="$a00141.html#ac93d70236dfe9612ce6a39e1da17da57" title="Initialize TicTacToe view. " alt="" coords="655,507,782,533"/>
+<area shape="rect" id="node38" href="$a00112.html#a9193e76846752ccb14c87b85b247e6fc" title="Attach a new command to the Shell interpreter. " alt="" coords="640,1016,797,1043"/>
+<area shape="rect" id="node9" href="$a00098.html#a7d66f431366955834a6a95863de2c3c3" title="Set current running app. " alt="" coords="859,565,1045,592"/>
+<area shape="rect" id="node10" href="$a00053.html#a9e82cf1952d06dc3e26353f421b00c4f" title="Print a line on the console. " alt="" coords="1114,1407,1273,1433"/>
+<area shape="rect" id="node11" href="$a00110.html#a365e1388b0e8a87e7eac1c98767de11f" title="method to send a string on the serial interface " alt="" coords="1392,1457,1477,1484"/>
+<area shape="rect" id="node12" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="1342,915,1527,941"/>
+<area shape="rect" id="node13" href="$a00139.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="1359,1356,1510,1383"/>
+<area shape="rect" id="node14" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="1350,1407,1519,1433"/>
+<area shape="rect" id="node16" href="$a00094.html#acca237b9ecee799249e3cca8c58bb564" title="Initialize the LCD display. " alt="" coords="900,835,1004,861"/>
+<area shape="rect" id="node20" href="$a00119.html#aa7a22d5f99d61081b2b6b5b45ed3ba7c" title="Detach all touch surface. " alt="" coords="867,915,1037,941"/>
+<area shape="rect" id="node23" href="$a00125.html#ab26774ea8ec444777b1909e0ad2baaa8" title="Print Base. " alt="" coords="895,717,1009,744"/>
+<area shape="rect" id="node28" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="1361,549,1508,576"/>
+<area shape="rect" id="node29" href="$a00094.html#a1ff7fb69949e7bb6ca9e8eb5b9cb4925" title="Print a gridstruct utils_position start_pos, enum view_color color, char* string. ..." alt="" coords="882,768,1022,795"/>
+<area shape="rect" id="node30" href="$a00119.html#aee2f484800e931c2032425e86685f182" title="touchmanager_grid_attach" alt="" coords="865,616,1039,643"/>
+<area shape="rect" id="node31" href="$a00063.html#ac0956badde2429b233aece56bd89da06" title="controller_tictactoe\l_grid_handler" alt="" coords="886,165,1018,206"/>
+<area shape="rect" id="node34" href="$a00063.html#a062b4d01641d10612fe34e41a79b536c" title="controller_tictactoe\l_validate_button_handler" alt="" coords="870,230,1034,271"/>
+<area shape="rect" id="node36" href="$a00141.html#a4c8201d857a92db6524436e478cc69ca" title="Set text. " alt="" coords="888,499,1016,541"/>
+<area shape="rect" id="node17" href="$a00092.html#a400a1db7dba502195b2cc6bd7336504a" title="Initialize the liquid crystal display controller. " alt="" coords="1158,885,1229,912"/>
+<area shape="rect" id="node18" href="$a00092.html#a227bd8abc8de74627513069b2ea55247" title="Enable the liquid crystal display controller. " alt="" coords="1148,784,1239,811"/>
+<area shape="rect" id="node19" href="$a00143.html#a6060fc07ae096137c2a9cbb49cf0a5ba" title="Initialize the xpm module internal resources. " alt="" coords="1158,835,1229,861"/>
+<area shape="rect" id="node21" href="$a00119.html#a845b61c58eec82e2422632deafe2183a" title="Detach all buttons. " alt="" coords="1120,937,1267,978"/>
+<area shape="rect" id="node22" href="$a00119.html#aa22035ed72655286ecc7a4fafa6d7625" title="Detach all grids. " alt="" coords="1094,1003,1293,1029"/>
+<area shape="rect" id="node27" href="$a00055.html#a42355a0edc713dc7d36a1a871a3c0c4a" title="controller_button_home\l_handler" alt="" coords="1115,718,1272,759"/>
+<area shape="rect" id="node25" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="1576,549,1693,576"/>
+<area shape="rect" id="node32" href="$a00104.html#a4e198d1a1968081f30a36bb41f957f47" title="Get the grid case state. " alt="" coords="1106,144,1281,171"/>
+<area shape="rect" id="node33" href="$a00141.html#a08eea4beecc122818085b672888dff7b" title="Set case. " alt="" coords="1112,195,1275,221"/>
+<area shape="rect" id="node35" href="$a00104.html#aae17453d6097c94cce954efdf0e1456d" title="Update the grid to add the last move. " alt="" coords="1105,245,1282,272"/>
+<area shape="rect" id="node37" href="$a00094.html#a00ad8aad37f5addb2b1c94c53d88b39d" title="Print text. " alt="" coords="1123,1245,1264,1272"/>
+<area shape="rect" id="node40" href="$a00100.html#acaa02ae7751e545c80448e991e20b143" title="Resets the grid. " alt="" coords="627,1117,811,1144"/>
+<area shape="rect" id="node41" href="$a00127.html#aded8fe72d054ae9bec7ccc1c4447c62e" title="Initialize Battleship Positioning view. " alt="" coords="652,1067,785,1093"/>
+<area shape="rect" id="node42" href="$a00057.html#a0ff871984432cb2d0d7ba08d7d6d1262" title="controller_battleship\l_grid_handler" alt="" coords="883,1169,1021,1210"/>
+<area shape="rect" id="node43" href="$a00057.html#a73c207f821150fef6038a49a6f26023f" title="controller_battleship\l_button_ship1_handler" alt="" coords="876,1562,1028,1603"/>
+<area shape="rect" id="node44" href="$a00057.html#ad155d908892cfb939572a54b3a8cd6da" title="controller_battleship\l_button_ship2_handler" alt="" coords="876,1366,1028,1407"/>
+<area shape="rect" id="node45" href="$a00057.html#a085f2ec8261145de8d0a73e2a034e1cc" title="controller_battleship\l_button_ship3_handler" alt="" coords="876,1431,1028,1473"/>
+<area shape="rect" id="node46" href="$a00057.html#a0515b64b8e38f2c64e20fa3c48ebf2c4" title="controller_battleship\l_button_rotate_handler" alt="" coords="875,1497,1029,1538"/>
+<area shape="rect" id="node47" href="$a00057.html#a8a3c7315d6773012693826f1f8fba11c" title="controller_battleship\l_play_validate_button\l_handler" alt="" coords="879,1235,1025,1291"/>
+<area shape="rect" id="node49" href="$a00102.html#ac181b2136c6a156df14017d8989f629f" title="Resets the score for all players. " alt="" coords="433,1691,565,1717"/>
+<area shape="rect" id="node50" href="$a00137.html#ae4f589f72a6b6bfc2ce04376c749671b" title="view_score_values_print" alt="" coords="419,1640,579,1667"/>
+</map>

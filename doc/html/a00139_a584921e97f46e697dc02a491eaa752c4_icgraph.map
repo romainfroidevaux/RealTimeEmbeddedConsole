@@ -1,0 +1,51 @@
+<map id="view_shell_reset_shell" name="view_shell_reset_shell">
+<area shape="rect" id="node2" href="$a00140.html#a8564d98875d973424ff6788fa705f683" title="Clear. " alt="" coords="1068,1381,1183,1408"/>
+<area shape="rect" id="node10" href="$a00139.html#a90ba4da2c534f1db3da8fa7da1a6a008" title="view_shell_print_chars\l_tests" alt="" coords="430,690,581,731"/>
+<area shape="rect" id="node49" href="$a00140.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="206,792,375,819"/>
+<area shape="rect" id="node3" href="$a00054.html#a19c91ed5bed8e1cb4146fbe01f45aab0" title="Clear the console. " alt="" coords="1275,1640,1427,1667"/>
+<area shape="rect" id="node4" href="$a00140.html#abbe80c8af1422aed9a1695b271317f43" title="Initialize Shell view. " alt="" coords="1299,1539,1403,1565"/>
+<area shape="rect" id="node5" href="$a00059.html#a3cfd27d2a8960a66809c7d54c4242308" title="controller_home_button\l_shell_handler" alt="" coords="1496,1385,1653,1426"/>
+<area shape="rect" id="node6" href="$a00115.html#aac664a28090e117bf312a7c02dcf7026" title="Start an application. " alt="" coords="2083,1187,2247,1213"/>
+<area shape="rect" id="node7" href="$a00136.html#aa00bcf8c0582eb3736e5174b95144abd" title="Initialize view. " alt="" coords="1716,1388,1825,1415"/>
+<area shape="rect" id="node8" href="$a00060.html#ab7414d6d28f006f41adfde76c57648f3" title="Starts the home app. " alt="" coords="1888,1360,2035,1387"/>
+<area shape="rect" id="node9" href="$a00115.html#a3e77166d1df613d611bcee06e17b4870" title="Stop an application. " alt="" coords="2084,1489,2247,1516"/>
+<area shape="rect" id="node11" href="$a00140.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="837,723,987,749"/>
+<area shape="rect" id="node47" href="$a00140.html#a444c2b86fb4d2d3159abef82d10c0e2f" title="Print char. " alt="" coords="635,748,779,775"/>
+<area shape="rect" id="node12" href="$a00054.html#a80ca0d65c9f991ec1be906ece4a3ef3a" title="Print text on the console. " alt="" coords="1051,212,1200,239"/>
+<area shape="rect" id="node20" href="$a00054.html#a9e82cf1952d06dc3e26353f421b00c4f" title="Print a line on the console. " alt="" coords="1046,803,1205,829"/>
+<area shape="rect" id="node45" href="$a00139.html#a8a8e7cb39481240fb58fd9dea0217ce4" title="view_shell_print_default\l_intro" alt="" coords="1047,59,1204,101"/>
+<area shape="rect" id="node13" href="$a00057.html#a8a3c7315d6773012693826f1f8fba11c" title="controller_battleship\l_play_validate_button\l_handler" alt="" coords="1277,107,1424,163"/>
+<area shape="rect" id="node16" href="$a00115.html#ad3b00af7cdc8f14ddcf8410dfd7c09fb" title="Ping. " alt="" coords="1507,339,1642,365"/>
+<area shape="rect" id="node17" href="$a00115.html#a296c441ff39092339c11e78b48f1b8dc" title="Set IP. " alt="" coords="1278,288,1423,315"/>
+<area shape="rect" id="node18" href="$a00114.html#a1da240ab2aa947e9ed2d16567c1fb8a7" title="shell_program_get_ip" alt="" coords="1278,187,1423,213"/>
+<area shape="rect" id="node19" href="$a00114.html#a7de7845b126811b9de1b02b6054f4dc7" title="shell_program_chrono_show" alt="" coords="1257,237,1444,264"/>
+<area shape="rect" id="node14" href="$a00128.html#aded8fe72d054ae9bec7ccc1c4447c62e" title="Initialize Battleship Positioning view. " alt="" coords="1508,900,1641,927"/>
+<area shape="rect" id="node15" href="$a00058.html#a2b7f69608644913ecd87f127ee8acd88" title="Starts the battleship app. " alt="" coords="1701,1179,1840,1221"/>
+<area shape="rect" id="node21" href="$a00052.html#a683373f13ce51f963bc7d8c0981f6665" title="Initialize the chronometer resources. " alt="" coords="1515,491,1634,517"/>
+<area shape="rect" id="node22" href="$a00052.html#aa263e00a9e59be17f53fbd8fadf3e35e" title="Stop the chronometer application. " alt="" coords="1266,592,1435,619"/>
+<area shape="rect" id="node23" href="$a00057.html#a73c207f821150fef6038a49a6f26023f" title="controller_battleship\l_button_ship1_handler" alt="" coords="1275,795,1427,837"/>
+<area shape="rect" id="node24" href="$a00057.html#ad155d908892cfb939572a54b3a8cd6da" title="controller_battleship\l_button_ship2_handler" alt="" coords="1275,861,1427,902"/>
+<area shape="rect" id="node25" href="$a00057.html#a085f2ec8261145de8d0a73e2a034e1cc" title="controller_battleship\l_button_ship3_handler" alt="" coords="1275,926,1427,967"/>
+<area shape="rect" id="node26" href="$a00057.html#a0515b64b8e38f2c64e20fa3c48ebf2c4" title="controller_battleship\l_button_rotate_handler" alt="" coords="1273,1187,1428,1229"/>
+<area shape="rect" id="node27" href="$a00081.html#a2bd6b3accec24ade6e13368d9603bca7" title="Configure a GPT timer. " alt="" coords="1291,541,1410,568"/>
+<area shape="rect" id="node30" href="$a00099.html#a3ca2314193e4ccc9b1f380dfb970a9ee" title="Starts an application. " alt="" coords="1291,1253,1410,1280"/>
+<area shape="rect" id="node34" href="$a00107.html#a501f8a6c8f6f40b7dd5c80bc5a1a7e03" title="Receive 1 frame. " alt="" coords="1498,668,1651,695"/>
+<area shape="rect" id="node35" href="$a00107.html#a415b4dc6446776fc9cbcc521a374345c" title="Send ICMP request (ping) " alt="" coords="1301,440,1400,467"/>
+<area shape="rect" id="node36" href="$a00107.html#aa94a193707d98be5f2f4136f0ce9ae36" title="Send ICMP reply. " alt="" coords="1265,643,1437,669"/>
+<area shape="rect" id="node37" href="$a00113.html#adc8d48210afb28584ce7b74954fcde9b" title="Interpret a line. " alt="" coords="1253,1304,1448,1331"/>
+<area shape="rect" id="node38" href="$a00114.html#af5f847491cd7bc32048db590b628a30d" title="shell_program_list\l_app_all" alt="" coords="1287,991,1414,1033"/>
+<area shape="rect" id="node39" href="$a00114.html#a3e49f277aa62da6266249696c81b839a" title="shell_program_list\l_app_run" alt="" coords="1287,1057,1414,1098"/>
+<area shape="rect" id="node40" href="$a00114.html#ad0129aa897c74a38daddc006f1e0c8ba" title="shell_program_list\l_app_halt" alt="" coords="1287,1122,1414,1163"/>
+<area shape="rect" id="node41" href="$a00114.html#a6aac659279e3e7a108c9717279e3c2a1" title="char * shell_program_help(int argc, char* argv[]) { } " alt="" coords="1276,1355,1425,1397"/>
+<area shape="rect" id="node42" href="$a00114.html#a96dd8e11728aa9f2b14268e084bbd2c6" title="shell_program_chrono_stop" alt="" coords="1260,1421,1441,1448"/>
+<area shape="rect" id="node43" href="$a00114.html#a1eebab6d4ae0ac8c7d8a7eb47b79ef61" title="shell_program_chrono\l_pause" alt="" coords="1276,1473,1425,1514"/>
+<area shape="rect" id="node44" href="$a00118.html#a1a0aef46ed41cb44555fcfb6e6940a68" title="Initialize the Thermometer resources. " alt="" coords="1291,389,1410,416"/>
+<area shape="rect" id="node28" href="$a00069.html#ac8b2dc5574d64cf8344cf3ff67ed0bd9" title="Enable the refresh of the display. " alt="" coords="1521,541,1629,568"/>
+<area shape="rect" id="node29" href="$a00091.html#afbb3b3ad0c8f22181212d20f10187e73" title="Passes controle to another thread and sleep during for specified time. " alt="" coords="1505,592,1644,619"/>
+<area shape="rect" id="node31" href="$a00050.html#a5db784559a4599699e53ec3c1964e315" title="Start the calibration program. " alt="" coords="1501,1165,1648,1192"/>
+<area shape="rect" id="node32" href="$a00052.html#aaef370f9d3079fd3d3b89326117465e8" title="Start the chronometer application. " alt="" coords="1506,1217,1643,1258"/>
+<area shape="rect" id="node33" href="$a00062.html#a82bddd27bc9d265251ffc0d312c38cab" title="Starts the score app. " alt="" coords="1888,1125,2035,1152"/>
+<area shape="rect" id="node46" href="$a00140.html#afdbd3ecddc8ba64f24d654f15d35ad0c" title="Delete line. " alt="" coords="1276,5,1425,32"/>
+<area shape="rect" id="node48" href="$a00054.html#a24a14e13ec1bfa7c365139a35afce315" title="Reads a whole line from the serial interface. " alt="" coords="827,777,997,804"/>
+<area shape="rect" id="node50" href="$a00054.html#a3f7cadc0592348be0b93c0d601ab86a8" title="Clear the current line. " alt="" coords="424,756,587,783"/>
+</map>

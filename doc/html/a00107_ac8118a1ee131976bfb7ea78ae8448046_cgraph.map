@@ -1,0 +1,5 @@
+<map id="network_send_arp_reply" name="network_send_arp_reply">
+<area shape="rect" id="node2" href="$a00088.html#a322a3556614cf728f117b433e661dd24" title="Get the IP address configured. " alt="" coords="227,5,354,32"/>
+<area shape="rect" id="node3" href="$a00075.html#ab5385d903e4145cadb4a899ad786d68b" title=" IIM Interface " alt="" coords="216,56,365,83"/>
+<area shape="rect" id="node4" href="$a00075.html#a55fdb05f413d753f579f1f31c484a489" title="FEC send. " alt="" coords="253,107,328,133"/>
+</map>

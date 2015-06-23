@@ -1,0 +1,12 @@
+<map id="consolemanager_clearln" name="consolemanager_clearln">
+<area shape="rect" id="node2" href="$a00110.html#a365e1388b0e8a87e7eac1c98767de11f" title="method to send a string on the serial interface " alt="" coords="267,31,352,57"/>
+<area shape="rect" id="node6" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="217,81,402,108"/>
+<area shape="rect" id="node7" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="225,132,394,159"/>
+<area shape="rect" id="node3" href="$a00110.html#a9c751f48f189bdf68240e476f01ea070" title="method to send character on the serial interface " alt="" coords="484,31,569,57"/>
+<area shape="rect" id="node4" href="$a00087.html#aad559c0a8c9209a2751887cac7cf8881" title="Method to disable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="665,5,783,32"/>
+<area shape="rect" id="node5" href="$a00087.html#aaa547d1d7074b73a55b85640b558923b" title="Method to enable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="667,56,781,83"/>
+<area shape="rect" id="node8" href="$a00139.html#a584921e97f46e697dc02a491eaa752c4" title="view_shell_reset_shell" alt="" coords="451,107,602,133"/>
+<area shape="rect" id="node11" href="$a00139.html#a720d48ba809d3abd59e7c74b4e36c927" title="view_shell_init_cursor" alt="" coords="453,157,600,184"/>
+<area shape="rect" id="node9" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="651,107,797,133"/>
+<area shape="rect" id="node10" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="845,107,963,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="serial_puts" name="serial_puts">
+<area shape="rect" id="node2" href="$a00110.html#a9c751f48f189bdf68240e476f01ea070" title="method to send character on the serial interface " alt="" coords="139,31,224,57"/>
+<area shape="rect" id="node3" href="$a00087.html#aad559c0a8c9209a2751887cac7cf8881" title="Method to disable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="272,5,389,32"/>
+<area shape="rect" id="node4" href="$a00087.html#aaa547d1d7074b73a55b85640b558923b" title="Method to enable both normal and fast interrupt requests (IRQ/FIQ) " alt="" coords="273,56,388,83"/>
+</map>

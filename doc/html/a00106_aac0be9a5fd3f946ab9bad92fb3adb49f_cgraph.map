@@ -1,0 +1,8 @@
+<map id="network_init_fec" name="network_init_fec">
+<area shape="rect" id="node2" href="$a00075.html#aa109d9e899a2cc88e41f16b2b13dc1e6" title=" FEC Interface " alt="" coords="173,56,235,83"/>
+<area shape="rect" id="node6" href="$a00075.html#abc5ddcff5bac9eb4e3b3d57b398cb30a" title="Start the Fast Ethernet Controller (FEC). " alt="" coords="168,107,240,133"/>
+<area shape="rect" id="node3" href="$a00075.html#ab5385d903e4145cadb4a899ad786d68b" title=" IIM Interface " alt="" coords="296,107,445,133"/>
+<area shape="rect" id="node4" href="$a00075.html#a433a9cfb25c4f926b99242dbd115a556" title="Set MAC address to the register. " alt="" coords="296,5,445,32"/>
+<area shape="rect" id="node5" href="$a00085.html#a2e2607afea61e17ad52a9711abffec6c" title="imx27_clock_get_ahbclk" alt="" coords="288,56,453,83"/>
+<area shape="rect" id="node7" href="$a00075.html#afb79024049c0599970a47303fc353b99" title="MII contoller initialization. " alt="" coords="327,157,414,184"/>
+</map>

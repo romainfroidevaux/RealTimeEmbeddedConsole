@@ -1,0 +1,5 @@
+<map id="touchmanager_init" name="touchmanager_init">
+<area shape="rect" id="node2" href="$a00119.html#aa7a22d5f99d61081b2b6b5b45ed3ba7c" title="Detach all touch surface. " alt="" coords="181,41,352,68"/>
+<area shape="rect" id="node3" href="$a00119.html#a845b61c58eec82e2422632deafe2183a" title="Detach all buttons. " alt="" coords="427,5,573,46"/>
+<area shape="rect" id="node4" href="$a00119.html#aa22035ed72655286ecc7a4fafa6d7625" title="Detach all grids. " alt="" coords="401,71,599,97"/>
+</map>

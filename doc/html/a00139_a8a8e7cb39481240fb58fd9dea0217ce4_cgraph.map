@@ -1,0 +1,12 @@
+<map id="view_shell_print_default_intro" name="view_shell_print_default_intro">
+<area shape="rect" id="node2" href="$a00139.html#a034d7b38a6097b4587be504838c29db8" title="Print chars. " alt="" coords="211,52,362,79"/>
+<area shape="rect" id="node3" href="$a00139.html#a90ba4da2c534f1db3da8fa7da1a6a008" title="view_shell_print_chars\l_tests" alt="" coords="621,14,771,55"/>
+<area shape="rect" id="node9" href="$a00139.html#a444c2b86fb4d2d3159abef82d10c0e2f" title="Print char. " alt="" coords="411,79,555,105"/>
+<area shape="rect" id="node4" href="$a00139.html#a584921e97f46e697dc02a491eaa752c4" title="view_shell_reset_shell" alt="" coords="1057,23,1207,49"/>
+<area shape="rect" id="node7" href="$a00139.html#a720d48ba809d3abd59e7c74b4e36c927" title="view_shell_init_cursor" alt="" coords="1059,73,1205,100"/>
+<area shape="rect" id="node8" href="$a00139.html#a97f80af6314f1697e6f768e325059826" title="Print new line. " alt="" coords="838,23,1007,49"/>
+<area shape="rect" id="node5" href="$a00094.html#ac38c838cfe45fd2c6ef7049955f3f2a4" title="Print zone. " alt="" coords="1256,51,1403,77"/>
+<area shape="rect" id="node6" href="$a00092.html#aead9354193cf7be8e1aec52a9c780521" title="Return the base address of the LCDC bitmap. " alt="" coords="1451,89,1568,116"/>
+<area shape="rect" id="node10" href="$a00098.html#a4b717ce6ea70a28f6c053d448e267439" title="Get current running app. " alt="" coords="603,80,789,107"/>
+<area shape="rect" id="node11" href="$a00094.html#afa7fddb197e48b1388d0e6d3e252c8c4" title="Print char. " alt="" coords="851,129,995,156"/>
+</map>
